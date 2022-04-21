@@ -1,9 +1,23 @@
-## Personal Information
+# Personal Information
+Email: bobguo2023[A]u[D]northwestern[D]edu
+
+I am a junior undergraduate at Northwestern University, and I'm interested in theoretical computer science. 
+
+# Works
+1. Here's an incomplete note to learn the motivation behind the 22-appoximaition for ATSP (asymmetric travelling salesman problem): [Link](https://drive.google.com/file/d/1FlF5x-ewael9xvGGb1TfJctMKPFgQ6DK/view?usp=sharing)
+
+# Education
+### High School Affiliated to Beijing Normal University, Beijing, China
+2016-2019
+
+### Northwestern University, Evanston, Illinois
+Math and Computer Science major
+
+2019-
+
 
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
