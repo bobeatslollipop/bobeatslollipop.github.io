@@ -6,7 +6,8 @@ Email: bobguo2023[A]u[D]northwestern[D]edu
 I am a junior undergraduate at Northwestern University, and I'm interested in theoretical computer science. 
 
 # Works
-1. Here's an incomplete note to learn the motivation behind the 22-appoximaition for ATSP (asymmetric travelling salesman problem): [Link](https://drive.google.com/file/d/1FlF5x-ewael9xvGGb1TfJctMKPFgQ6DK/view?usp=sharing)
+1. An incomplete note to learn the motivation behind the 22-appoximaition for ATSP (asymmetric travelling salesman problem): [Link](https://drive.google.com/file/d/1FlF5x-ewael9xvGGb1TfJctMKPFgQ6DK/view?usp=sharing)
+2. A brief survey on list-decodable learning, done with Yining "Sam" Huang and Zening "Tony" Luo, as the project assignment for a CS grad course: [Link](https://drive.google.com/file/d/1g1oU-oEyxzjzNj-Hy7ksW44sei_ya1mW/view?usp=sharing)
 
 # Education
 ### High School Affiliated to Beijing Normal University, Beijing, China
