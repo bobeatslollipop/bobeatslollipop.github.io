@@ -10,32 +10,25 @@ B.A. in Math and M.S. in Computer Science
 2019-2023
 
 # Work and Research Experience
-### Ross Mathematics Program
+### Junior Counselor(2019) and Counselor(2020), Ross Mathematics Program
 Lead discussions and daily meetings. Graded problem sets related to number theory, abstract algebra, and real analysis. 
 
-First-year student, Summer 2018
-Junior Counselor, Summer 2019
-Counselor, Summer 2020
-
-### Developer, "dot dev" club
+### Developer, "dot dev" club, 2020-2021
 Worked with teammates to build prototype website "metchup" that matches students into study groups online. Used React for front-end and Google firebase for back-end. 
-2020-2021
 
-### Peer Mentor
+
+### Peer Mentor, spring 2022
 Peer Mentored the undergraduate algorithm classs in Northwestern university. Graded homeworks and held office hours regarding algorithm-related problems. 
-Spring 2022
 
-### Summer Undergraduate Researcher
+
+### Undergraduate Research, summer 2022
 Participated actively project lead by Adobe and professors from Northwestern University and University of Maryland. Responsible for running and designing experiments for file versioning. In particular, we wish to continue and improve the work https://dl.acm.org/doi/10.14778/2824032.2824035. 
-Summer 2022
 
-### Undergraduate Research Fellow
+### Undergraduate Research, 2021-2022
 Presented papers and discussed new ideas with other students and professor Konstantin Makarychev. Worked to improve machine learning-augmented data strucutres, such as Bloom filters. In particular, I'm seeking to improve https://iclr.cc/virtual/2021/poster/2672. 
-2021-2022
 
-### Research assisstant
+### Research Assisstant, 2022
 Worked with Dr. Donald Stull on packing dimensions of the projections of 2-dimensional sets onto streight lines. Used Kolmogorov complexity as mathematical tool. 
-2022
 
 # Academic works (including informal ones)
 1. An incomplete note for the motivation behind the 22-appoximaition for ATSP (asymmetric travelling salesman problem): [ATSP notes](https://drive.google.com/file/d/1FlF5x-ewael9xvGGb1TfJctMKPFgQ6DK/view?usp=sharing)
