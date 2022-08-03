@@ -33,6 +33,10 @@ Summer 2022
 Presented papers and discussed new ideas with other students and professor Konstantin Makarychev. Worked to improve machine learning-augmented data strucutres, such as Bloom filters. In particular, I'm seeking to improve https://iclr.cc/virtual/2021/poster/2672. 
 2021-2022
 
+### Research assisstant
+Worked with Dr. Donald Stull on packing dimensions of the projections of 2-dimensional sets onto streight lines. Used Kolmogorov complexity as mathematical tool. 
+2022
+
 # Academic works (including informal ones)
 1. An incomplete note for the motivation behind the 22-appoximaition for ATSP (asymmetric travelling salesman problem): [ATSP notes](https://drive.google.com/file/d/1FlF5x-ewael9xvGGb1TfJctMKPFgQ6DK/view?usp=sharing)
 2. A survey on list-decodable learning, demonstrating two methods from seminlal papers. Done with Yining Huang and Zening Luo for a grad course project: [List Decodable Learning in Mean Estimation](https://drive.google.com/file/d/1g1oU-oEyxzjzNj-Hy7ksW44sei_ya1mW/view?usp=sharing)
