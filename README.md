@@ -34,6 +34,7 @@ Worked with Dr. Donald Stull on packing dimensions of the projections of 2-dimen
 1. An incomplete note while learning the 22-appoximaition for ATSP (asymmetric travelling salesman problem): [ATSP notes](https://drive.google.com/file/d/1FlF5x-ewael9xvGGb1TfJctMKPFgQ6DK/view?usp=sharing)
 2. A survey on list-decodable learning, demonstrating two methods from seminlal papers. Done with Yining Huang and Zening Luo for a grad course project: [List Decodable Learning in Mean Estimation](https://drive.google.com/file/d/1g1oU-oEyxzjzNj-Hy7ksW44sei_ya1mW/view?usp=sharing)
 3. An attempt to give simple analogies to the online versions of capacitated vertex cover (CVC) problem. Done with Jingwei Li and Yining Huang for a grad course project: [Link](https://drive.google.com/file/d/1L43ebnZzG2FF2dorPM5iELuTDeMR9zQB/view?usp=sharing)
+4. An overleaf project that I keep. In LIFETIME.tex there is a note of miscellaneous papers and notes that I've read: https://www.overleaf.com/read/qgdqcrnsvnpd 
 
 
 # Awards and Honors
