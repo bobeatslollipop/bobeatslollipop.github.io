@@ -3,11 +3,15 @@ Email: bobguo2023[A]u[D]northwestern[D]edu
 
 # Education
 ### High School Affiliated to Beijing Normal University, Beijing, China
-2016-2019
+2016 - 2019
 
 ### Northwestern University, Evanston, Illinois
 B.A. in Math and M.S. in Computer Science
-2019-2023
+2019 - 2023
+
+### Northwestern University, Evanston, Illinois
+Ph.D. student in Computer Science
+2019 -
 
 # Work and Research Experience
 ### Junior Counselor(2019) and Counselor(2020), Ross Mathematics Program
@@ -30,14 +34,13 @@ Presented papers and discussed new ideas with other students and professor Konst
 ### Research Assisstant, 2022
 Worked with Dr. Donald Stull on packing dimensions of the projections of 2-dimensional sets onto streight lines. Used Kolmogorov complexity as mathematical tool. 
 
-# Academic works (including informal ones)
-1. An incomplete note while learning the 22-appoximaition for ATSP (asymmetric travelling salesman problem): [ATSP notes](https://drive.google.com/file/d/1FlF5x-ewael9xvGGb1TfJctMKPFgQ6DK/view?usp=sharing)
-2. A survey on list-decodable learning, demonstrating two methods from seminlal papers. Done with Yining Huang and Zening Luo for a grad course project: [List Decodable Learning in Mean Estimation](https://drive.google.com/file/d/1g1oU-oEyxzjzNj-Hy7ksW44sei_ya1mW/view?usp=sharing)
+# Informal works
+1. An ongoing project to take note of all textbooks and papers that I read since summer 2023: https://www.overleaf.com/read/qgdqcrnsvnpd
+2. A survey on list-decodable learning, demonstrating two methods from pervious papers. Done with Yining Huang and Zening Luo for a grad course project: [List Decodable Learning in Mean Estimation](https://drive.google.com/file/d/1g1oU-oEyxzjzNj-Hy7ksW44sei_ya1mW/view?usp=sharing)
 3. An attempt to give simple analogies to the online versions of capacitated vertex cover (CVC) problem. Done with Jingwei Li and Yining Huang for a grad course project: [Link](https://drive.google.com/file/d/1L43ebnZzG2FF2dorPM5iELuTDeMR9zQB/view?usp=sharing)
-4. An overleaf project that I keep. In LIFETIME.tex there is a note of miscellaneous papers and notes that I've read: https://www.overleaf.com/read/qgdqcrnsvnpd 
 
 
 # Awards and Honors
 ### Top 13% in the extended round of Google Hashcode, 2020
 
-### Junior Career Award in Mathematics, Northwestern University math department 2022
+### Junior Career Award in Mathematics, Northwestern University Math Department 2022
