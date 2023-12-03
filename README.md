@@ -32,5 +32,5 @@ Presented papers and discussed new ideas with other students and professor Konst
 Anxin Guo, Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and  Koyel Mukherjee, _To Store or Not to Store: a graph theoretical approach for Dataset Versioning_. Manuscript. 
 
 # Awards and Honors
-### Top 13% in the extended round of Google Hashcode, 2020
-### Junior Career Award in Mathematics, Northwestern University Math Department 2022
+Top 13% in the extended round of Google Hashcode, 2020
+Junior Career Award in Mathematics, Northwestern University Math Department 2022
