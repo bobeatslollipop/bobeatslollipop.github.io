@@ -1,46 +1,36 @@
-# Anxin "Bob" Guo
-Email: bobguo2023[A]u[D]northwestern[D]edu
+# Anxin (Bob) Guo
+Email: bobguo2023[A]u[D]northwestern[D]edu. 
+
+### A brief self-introduction.
+I'm a first-year computer science PhD student in Northwestern University's [theory croup](https://theory.cs.northwestern.edu/). (We don't have a fixed advisor on our first year!) I am generally interested beyond worst-case algorithm analysis and machine learning theory. 
+
+I have written two posts on 知乎 (Chinese Quora) about theoretical computer science. Here's a [link](https://zhuanlan.zhihu.com/p/643661983) to them. I also enjoy taking notes of the books I read with Obsidian since 2023 Fall. Here's my [published vault]([https://website-name.com](https://publish.obsidian.md/anxinguo)).
+
+I grew up in Beijing, where I lived until I went to college. 
 
 # Education
-### High School Affiliated to Beijing Normal University, Beijing, China
-2016 - 2019
-
-### Northwestern University, Evanston, Illinois
+Northwestern University, Evanston, Illinois (2019-2023)
 B.A. in Math and M.S. in Computer Science
-2019 - 2023
 
-### Northwestern University, Evanston, Illinois
+Northwestern University, Evanston, Illinois (2023-present)
 Ph.D. student in Computer Science
-2019 -
 
 # Work and Research Experience
-### Junior Counselor(2019) and Counselor(2020), Ross Mathematics Program
+### Junior Counselor (2019) and Counselor (2020), Ross Mathematics Program
 Lead discussions and daily meetings. Graded problem sets related to number theory, abstract algebra, and real analysis. 
-
-### Developer, "dot dev" club, 2020-2021
-Worked with teammates to build prototype website "metchup" that matches students into study groups online. Used React for front-end and Google firebase for back-end. 
-
 
 ### Peer Mentor, spring 2022
 Peer Mentored the undergraduate algorithm classs in Northwestern university. Graded homeworks and held office hours regarding algorithm-related problems. 
 
-
-### Undergraduate Research, summer 2022
+### Undergraduate Research, Summer 2022
 Participated actively project lead by Adobe and professors from Northwestern University and University of Maryland. Responsible for running and designing experiments for file versioning. In particular, we wish to continue and improve the work https://dl.acm.org/doi/10.14778/2824032.2824035. 
 
 ### Undergraduate Research, 2021-2022
 Presented papers and discussed new ideas with other students and professor Konstantin Makarychev. Worked to improve machine learning-augmented data strucutres, such as Bloom filters. In particular, I'm seeking to improve https://iclr.cc/virtual/2021/poster/2672. 
 
-### Research Assisstant, 2022
-Worked with Dr. Donald Stull on packing dimensions of the projections of 2-dimensional sets onto streight lines. Used Kolmogorov complexity as mathematical tool. 
-
-# Informal works
-1. An ongoing project to take note of all textbooks and papers that I read since summer 2023: https://www.overleaf.com/read/qgdqcrnsvnpd
-2. A survey on list-decodable learning, demonstrating two methods from pervious papers. Done with Yining Huang and Zening Luo for a grad course project: [List Decodable Learning in Mean Estimation](https://drive.google.com/file/d/1g1oU-oEyxzjzNj-Hy7ksW44sei_ya1mW/view?usp=sharing)
-3. An attempt to give simple analogies to the online versions of capacitated vertex cover (CVC) problem. Done with Jingwei Li and Yining Huang for a grad course project: [Link](https://drive.google.com/file/d/1L43ebnZzG2FF2dorPM5iELuTDeMR9zQB/view?usp=sharing)
-
+# Academic Papers
+Anxin Guo, Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and  Koyel Mukherjee, _To Store or Not to Store: a graph theoretical approach for Dataset Versioning_. Manuscript. 
 
 # Awards and Honors
 ### Top 13% in the extended round of Google Hashcode, 2020
-
 ### Junior Career Award in Mathematics, Northwestern University Math Department 2022
