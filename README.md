@@ -9,10 +9,10 @@ I have written two articles on 知乎 (Chinese Quora) about theoretical computer
 I grew up in Beijing, where I lived until I went to college. 
 
 # Education
-Northwestern University, Evanston, Illinois (2019-2023)
+Northwestern University, Evanston, Illinois (2019-2023)\\
 B.A. in Math and M.S. in Computer Science
 
-Northwestern University, Evanston, Illinois (2023-present)
+Northwestern University, Evanston, Illinois (2023-present)\\
 Ph.D. student in Computer Science
 
 # Work and Research Experience
@@ -26,11 +26,11 @@ Peer Mentored the undergraduate algorithm classs in Northwestern university. Gra
 Participated actively project lead by Adobe and professors from Northwestern University and University of Maryland. Responsible for running and designing experiments for file versioning. In particular, we wish to continue and improve the work https://dl.acm.org/doi/10.14778/2824032.2824035. 
 
 ### Undergraduate Research, 2021-2022
-Presented papers and discussed new ideas with other students and professor Konstantin Makarychev. Worked to improve machine learning-augmented data strucutres, such as Bloom filters. In particular, I'm seeking to improve https://iclr.cc/virtual/2021/poster/2672. 
+Presented papers and discussed new ideas with other students and professor Konstantin Makarychev. Worked to improve machine learning-augmented data strucutres, such as Bloom filters. 
 
 # Academic Papers
 Anxin Guo, Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and  Koyel Mukherjee, _To Store or Not to Store: a graph theoretical approach for Dataset Versioning_. Manuscript. 
 
 # Awards and Honors
-Top 13% in the extended round of Google Hashcode, 2020
+Top 13% in the extended round of Google Hashcode, 2020\\
 Junior Career Award in Mathematics, Northwestern University Math Department 2022
