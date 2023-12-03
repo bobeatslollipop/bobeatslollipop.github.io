@@ -4,7 +4,7 @@ Email: bobguo2023[A]u[D]northwestern[D]edu.
 ### A brief self-introduction.
 I'm a first-year computer science PhD student in Northwestern University's [theory croup](https://theory.cs.northwestern.edu/). (We don't have a fixed advisor on our first year!) I am generally interested beyond worst-case algorithm analysis and machine learning theory. 
 
-I have written two posts on 知乎 (Chinese Quora) about theoretical computer science. Here's a [link](https://zhuanlan.zhihu.com/p/643661983) to them. I also enjoy taking notes of the books I read with Obsidian since 2023 Fall. Here's my [published vault]([https://website-name.com](https://publish.obsidian.md/anxinguo)).
+I have written two articles on 知乎 (Chinese Quora) about theoretical computer science. Here's a [link](https://zhuanlan.zhihu.com/p/643661983) to them. I also enjoy taking notes of the books I read with Obsidian since 2023 Fall. However, there seems to be a problem with Obsidian Publish, which makes the mathematical equations look strange. 
 
 I grew up in Beijing, where I lived until I went to college. 
 
