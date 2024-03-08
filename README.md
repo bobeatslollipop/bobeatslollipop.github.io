@@ -1,5 +1,5 @@
 # About Me
-I'm a first-year computer science PhD student at Northwestern University's [theory croup](https://theory.cs.northwestern.edu/). (We don't have a fixed advisor on our first year!) I am generally interested in theoretical computer science, and my current research focus is on machine learning theory and AMQ-filters. 
+I'm a first-year computer science PhD student at Northwestern University's [theory croup](https://theory.cs.northwestern.edu/). I am generally interested in theoretical computer science, and my current research focus is on machine learning theory and AMQ-filters. 
 
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. He
 
