@@ -17,7 +17,8 @@ Ph.D. student in Computer Science
 
 # Other Experience
 **Ross Mathematics Program**\\
-I attended Ross Asia in 2018 as a first year student (and had a great time!), in 2019 as a junior counselor, and in 2020 as a counselor. 
+I attended Ross Asia in 2018 as a first year student (and had a great time!), in 2019 as a junior counselor, and in 2020 as a counselor. \\
+I took part in the Directed Reading Northwestern's math department. 
 
 # Misc.
 I have written two articles on 知乎 (Chinese version of Quora?) about theoretical computer science. Here's a [link](https://zhuanlan.zhihu.com/p/643661983) to them. \\
