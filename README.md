@@ -21,7 +21,7 @@ I attended Ross Asia in 2018 as a first year student (and had a great time!), in
 I took part in the Directed Reading Northwestern's math department. 
 
 **Directed Reading Program**\\
-In my sophomore year, I participated in Math department's directed reading program, where I read 6 chapters of Linear Representations of Finite Groups with [Wenyuan Li](https://wenyuanli1995-math.github.io/). I like
+In my sophomore year, I participated in Math department's directed reading program, where I read 6 chapters of Linear Representations of Finite Groups with [Wenyuan Li](https://wenyuanli1995-math.github.io/). 
 
 # Misc.
 I have written two articles on 知乎 (Chinese version of Quora?) about theoretical computer science. Here's a [link](https://zhuanlan.zhihu.com/p/643661983) to them. 
