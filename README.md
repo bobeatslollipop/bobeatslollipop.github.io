@@ -25,4 +25,4 @@ In 2021 Spring, I participated in Math department's directed reading program, wh
 # Misc.
 I have written two articles on 知乎 (Chinese version of Quora?) about theoretical computer science. Here's a [link](https://zhuanlan.zhihu.com/p/643661983) to them. 
 
-I lived for the first 18 years of my life. I am a big fan of Beijing's subway system! (I'm not a big fan of driving, due to the traumatic experience of not finding a parking spot for an hour.) 
+I lived in Beijing for the first 18 years of my life. What I like the most about the city is its subway system and shared bicycles, which make travelling very easy and cheap. (I'm not a big fan of driving, due to the traumatic experience of looking for parking spots for an hour.) 
