@@ -4,7 +4,7 @@ I'm a first-year computer science PhD student at Northwestern University's [theo
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. 
 
 # Research
-**To Store or Not to Store: a graph theoretical approach for Dataset Versioning**\\
+**To Store or Not to Store: a graph theoretical approach for Dataset Versioning.**\\
 with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mukherjee. 
 _IPDPS 2024_. [arXiv](https://arxiv.org/abs/2402.11741)
 
@@ -18,10 +18,9 @@ Ph.D. in Computer Science
 # Other Experience
 **Ross Mathematics Program**\\
 I attended Ross Asia in 2018 as a first year student (and had a great time!), in 2019 as a junior counselor, and in 2020 as a counselor. \\
-I took part in the Directed Reading Northwestern's math department. 
 
 **Directed Reading Program**\\
-In my sophomore year, I participated in Math department's directed reading program, where I read 6 chapters of Linear Representations of Finite Groups with [Wenyuan Li](https://wenyuanli1995-math.github.io/). 
+In 2021 Spring, I participated in Math department's directed reading program, where I read 6 chapters of *Linear Representations of Finite Groups* with [Wenyuan Li](https://wenyuanli1995-math.github.io/). 
 
 # Misc.
 I have written two articles on 知乎 (Chinese version of Quora?) about theoretical computer science. Here's a [link](https://zhuanlan.zhihu.com/p/643661983) to them. 
