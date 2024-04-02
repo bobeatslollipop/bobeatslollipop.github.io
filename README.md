@@ -17,7 +17,7 @@ Ph.D. in Computer Science
 
 # Other Experience
 **Ross Mathematics Program**\\
-I attended Ross Asia in 2018 as a first year student (and had a great time!), in 2019 as a junior counselor, and in 2020 as a counselor. \\
+I attended Ross Asia in 2018 as a first year student (and had a great time!), in 2019 as a junior counselor, and in 2020 as a counselor. 
 
 **Directed Reading Program**\\
 In 2021 Spring, I participated in Math department's directed reading program, where I read 6 chapters of *Linear Representations of Finite Groups* with [Wenyuan Li](https://wenyuanli1995-math.github.io/). 
