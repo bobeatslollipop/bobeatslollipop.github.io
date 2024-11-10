@@ -4,7 +4,7 @@ I'm a second-year computer science PhD student at Northwestern University's [the
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. (Go 'Cats!)
 
 # Research
-**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals**\\
+**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals.**\\
 with Aravindan Vijayaraghavan. In submission. 
 
 **To Store or Not to Store: a graph theoretical approach for Dataset Versioning.**\\
@@ -16,7 +16,7 @@ Northwestern University, Evanston, Illinois (2019-2023)\\
 B.A. in Math and M.S. in Computer Science
 
 Northwestern University, Evanston, Illinois (2023-present)\\
-Ph.D. in Computer Science, hopefully
+Ph.D. student in Computer Science
 
 # Other Experience
 **Ross Mathematics Program**\\
