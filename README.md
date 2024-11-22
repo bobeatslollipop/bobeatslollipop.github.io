@@ -5,7 +5,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 # Research
 **Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals.**\\
-with Aravindan Vijayaraghavan. In submission. 
+with Aravindan Vijayaraghavan. In submission. [arXiv version](https://arxiv.org/abs/2411.14349)
 
 **To Store or Not to Store: a graph theoretical approach for Dataset Versioning.**\\
 with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mukherjee. 
