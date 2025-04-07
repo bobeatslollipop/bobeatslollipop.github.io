@@ -23,10 +23,10 @@ Ph.D. student in Computer Science
 I attended Ross Asia in 2018 as a first year student (and had a great time!), in 2019 as a junior counselor, and in 2020 as a counselor. 
 
 **Directed Reading Program**\\
-In 2021 Spring, I participated in Math department's directed reading program, where I read 6 chapters of *Linear Representations of Finite Groups* with [Wenyuan Li](https://wenyuanli1995-math.github.io/). 
+In 2021 Spring, I participated in Math department's directed reading program, where I read 6 chapters of _Linear Representations of Finite Groups_ with [Wenyuan Li](https://wenyuanli1995-math.github.io/). 
 
 **Teaching**\\
-I TAed for CS335 (Intro to Theory of Computing) in 2024 Fall quarter at Northwestern. 
+I TAed for CS335 Intro to Theory of Computing in 2024 Fall quarter, and won the _Barris Award for best TA_. 
 
 # Miscellaneous
 I have written two articles on 知乎 (Chinese version of Quora?) about theoretical computer science. Here's the [link](https://zhuanlan.zhihu.com/p/643661983). 
