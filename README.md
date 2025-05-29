@@ -18,6 +18,10 @@ B.A. in Math and M.S. in Computer Science
 Northwestern University, Evanston, Illinois (2023-present)\\
 Ph.D. student in Computer Science
 
+# Awards
+Ph.D. student research award (Northwestern CS department), _2024-2025_. 
+[Barris Award for outstanding TA](https://www.mccormick.northwestern.edu/computer-science/news-events/honors-awards/department-awards.html), _2024 Fall quarter_. 
+
 # Other Experience
 **Ross Mathematics Program**\\
 I attended Ross Asia in 2018 as a first year student (and had a great time!), in 2019 as a junior counselor, and in 2020 as a counselor. 
@@ -26,7 +30,7 @@ I attended Ross Asia in 2018 as a first year student (and had a great time!), in
 In 2021 Spring, I participated in Math department's directed reading program, where I read 6 chapters of _Linear Representations of Finite Groups_ with [Wenyuan Li](https://wenyuanli1995-math.github.io/). 
 
 **Teaching**\\
-I enjoyed TAing for CS335 Intro to Theory of Computing in 2024 Fall quarter. I also won the [Barris Award for best TA](https://www.mccormick.northwestern.edu/computer-science/news-events/honors-awards/department-awards.html) of that quarter!
+I enjoyed TAing for CS335 Intro to Theory of Computing in 2024 Fall quarter. 
 
 # Miscellaneous
 I have written two articles on 知乎 (Chinese version of Quora?) about theoretical computer science. Here's the [link](https://zhuanlan.zhihu.com/p/643661983). 
