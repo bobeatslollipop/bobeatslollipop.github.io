@@ -1,11 +1,11 @@
 # About Me
-I'm a second-year computer science PhD student at Northwestern University's [theory group](https://theory.cs.northwestern.edu/). I am generally interested in theoretical computer science. My current research focuses are in learning theory and high-dimensional statistics.  
+I'm a third-year computer science PhD student at Northwestern University's [theory group](https://theory.cs.northwestern.edu/). I am generally interested in theoretical computer science. My current research focuses are in learning theory and high-dimensional statistics.  
 
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. (Go 'Cats!)
 
 # Research
 **Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals.**\\
-with Aravindan Vijayaraghavan. _COLT 2025_. [arXiv version](https://arxiv.org/abs/2411.14349)
+with Aravindan Vijayaraghavan. _COLT 2025_. [arXiv version](https://arxiv.org/abs/2411.14349) | [conference version](https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf) | [Recorded virtual talk](https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2)
 
 **To Store or Not to Store: a graph theoretical approach for Dataset Versioning.**\\
 with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mukherjee. 
