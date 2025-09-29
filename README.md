@@ -20,7 +20,7 @@ Ph.D. student in Computer Science
 
 # Awards
 Ph.D. student research award (Northwestern CS department), _2024-2025_. 
-[Barris Award for outstanding TA]([https://www.mccormick.northwestern.edu/computer-science/news-events/honors-awards/department-awards.html](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2025/northwestern-cs-announces-fall-2024-winter-2025-outstanding-teaching-assistants-and-peer-mentors.html)), _2024 Fall quarter_. 
+[Barris Award for outstanding TA](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2025/northwestern-cs-announces-fall-2024-winter-2025-outstanding-teaching-assistants-and-peer-mentors.html), _2024 Fall quarter_. 
 
 # Other Experience
 **Ross Mathematics Program**\\
