@@ -6,13 +6,15 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 # Research
 **Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals.**\\
 with Aravindan Vijayaraghavan. _COLT 2025_.\\
-[arXiv version](https://arxiv.org/abs/2411.14349) | [conference version](https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf) | [Recorded virtual talk](https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2) 
+[arXiv version](https://arxiv.org/abs/2411.14349) | [conference version](https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf) | [Recorded virtual talk](https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2) \\
+[Summary](papers/GV25.md)
 
 
 **To Store or Not to Store: a graph theoretical approach for Dataset Versioning.**\\
 with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mukherjee. 
 _IPDPS 2024_. \\
-[arXiv version](https://arxiv.org/abs/2402.11741) | [conference version](https://ieeexplore.ieee.org/document/10579114)
+[arXiv version](https://arxiv.org/abs/2402.11741) | [conference version](https://ieeexplore.ieee.org/document/10579114) \\
+[Summary](papers/GLSKDM24.md)
 
 # Education
 Northwestern University, Evanston, Illinois (2019-2023)\\
