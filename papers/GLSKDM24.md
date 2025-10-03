@@ -5,4 +5,4 @@ layout: default
 
 ## To Store or Not to Store: a graph theoretical approach for Dataset Versioning
 Under construction.
-[back to homepage](/README.md)
+[back to homepage](/)
