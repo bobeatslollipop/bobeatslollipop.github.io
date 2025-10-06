@@ -4,21 +4,38 @@ I'm a third-year computer science PhD student at Northwestern University's [theo
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. (Go 'Cats!)
 
 # Research
-**Tight bounds for membership filters with two-sided errors**\\
+
+<details>
+<summary><strong>Tight bounds for membership filters with two-sided errors</strong>
+
 _Manuscript_.\\
 [See the draft](/assets/main.pdf)
+</summary>
 
-**Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals.**\\
+**Brief Summary:** This work establishes tight bounds for membership filters that allow both false positives and false negatives, providing fundamental limits on the trade-offs between space efficiency and error rates. Our bounds generalizes the log 1/FPR classical lower bound, and has an intuitive representation using KL divergence. 
+
+</details>
+
+<details>
+<summary><strong>Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals</strong></summary>
+
 with Aravindan Vijayaraghavan. _COLT 2025_.\\
 [arXiv version](https://arxiv.org/abs/2411.14349) | [conference version](https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf) | [Recorded virtual talk](https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2) \\
-<!-- [Summary](papers/GV25.md) -->
 
+**Brief Summary:** We gave the first algorithm for agnostic PAC learning of an arbitrarily biased ReLU neuron under Gaussian input distributions, up to constant approximation. We also showed hardness separation bewteen SQ (statistical query) and CSQ (correlational statistical query) models for this problem. In particular, most gradient-based algorithm would fail to obtain constant approximation. 
 
-**To Store or Not to Store: a graph theoretical approach for Dataset Versioning.**\\
+</details>
+
+<details>
+<summary><strong>To Store or Not to Store: a graph theoretical approach for Dataset Versioning</strong></summary>
+
 with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mukherjee. 
 _IPDPS 2024_. \\
 [arXiv version](https://arxiv.org/abs/2402.11741) | [conference version](https://ieeexplore.ieee.org/document/10579114) \\
-<!-- [Summary](papers/GLSKDM24.md) -->
+
+**Brief Summary:** We study a graph-theoretic framework for dataset versioning that optimizes storage costs while maintaining retrieval costs of different versions. On the theory side, we showed the first hardness of approximation results and gave provably near-optimal algorithms for tree-like graphs (bounded treewidth). Our findings also led to better practical heuristics, providing up to 1000x speedup for the "MinSum Retrieval" problem on real-world Github repos. 
+
+</details>
 
 # Education
 Northwestern University, Evanston, Illinois (2019-2023)\\
