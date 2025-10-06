@@ -6,12 +6,13 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 # Research
 
 <details>
-<summary><strong>Tight bounds for membership filters with two-sided errors</strong><br>
+<summary>
+<strong>Tight bounds for membership filters with two-sided errors</strong><br>
 <em>Manuscript</em>.<br/>
 <a href="/assets/main.pdf">See the draft</a>
 </summary>
 
-**Brief Summary:** This work establishes tight bounds for membership filters that allow both false positives and false negatives, providing fundamental limits on the trade-offs between space efficiency and error rates. Our bounds generalizes the log 1/FPR classical lower bound, and has an intuitive representation using KL divergence. 
+<strong>Summary:</strong> This work establishes tight bounds for membership filters that allow both false positives and false negatives, providing fundamental limits on the trade-offs between space efficiency and error rates. Our bounds generalizes the log 1/FPR classical lower bound, and has an intuitive representation using KL divergence. 
 
 </details>
 
@@ -21,7 +22,7 @@ with Aravindan Vijayaraghavan. <em>COLT 2025.</em></summary>
 
 <a href="https://arxiv.org/abs/2411.14349">arXiv version</a> | <a href="https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf">conference version</a> | <a href="https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2">Recorded virtual talk</a> 
 
-**Brief Summary:** We gave the first algorithm for agnostic PAC learning of an arbitrarily biased ReLU neuron under Gaussian input distributions, up to constant approximation. We also showed hardness separation bewteen SQ (statistical query) and CSQ (correlational statistical query) models for this problem. In particular, most gradient-based algorithm would fail to obtain constant approximation. 
+<strong>Summary:</strong> We gave the first algorithm for agnostic PAC learning of an arbitrarily biased ReLU neuron under Gaussian input distributions, up to constant approximation. We also showed hardness separation bewteen SQ (statistical query) and CSQ (correlational statistical query) models for this problem. In particular, most gradient-based algorithm would fail to obtain constant approximation. 
 
 </details>
 
@@ -31,7 +32,7 @@ with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mu
 <em>IPDPS 2024.</em> </summary>
 <a href="https://arxiv.org/abs/2402.11741">arXiv version</a> | <a href="https://ieeexplore.ieee.org/document/10579114">conference version</a>
 
-**Brief Summary:** We study a graph-theoretic framework for dataset versioning that optimizes storage costs while maintaining retrieval costs of different versions. On the theory side, we showed the first hardness of approximation results and gave provably near-optimal algorithms for tree-like graphs (bounded treewidth). Our findings also led to better practical heuristics, providing up to 1000x speedup for the "MinSum Retrieval" problem on real-world Github repos. 
+<strong>Summary:</strong> We study a graph-theoretic framework for dataset versioning that optimizes storage costs while maintaining retrieval costs of different versions. On the theory side, we showed the first hardness of approximation results and gave provably near-optimal algorithms for tree-like graphs (bounded treewidth). Our findings also led to better practical heuristics, providing up to 1000x speedup for the "MinSum Retrieval" problem on real-world Github repos. 
 
 </details>
 
