@@ -17,10 +17,11 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 </details>
 
 <details>
-<summary><strong>Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals</strong><br>
-with Aravindan Vijayaraghavan. <em>COLT 2025.</em></summary>
-
+<summary>
+<strong>Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals</strong><br>
+with Aravindan Vijayaraghavan. <em>COLT 2025.</em><br>
 <a href="https://arxiv.org/abs/2411.14349">arXiv version</a> | <a href="https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf">conference version</a> | <a href="https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2">Recorded virtual talk</a> 
+</summary>
 
 <strong>Summary:</strong> We gave the first algorithm for agnostic PAC learning of an arbitrarily biased ReLU neuron under Gaussian input distributions, up to constant approximation. We also showed hardness separation bewteen SQ (statistical query) and CSQ (correlational statistical query) models for this problem. In particular, most gradient-based algorithm would fail to obtain constant approximation. 
 
@@ -29,8 +30,9 @@ with Aravindan Vijayaraghavan. <em>COLT 2025.</em></summary>
 <details>
 <summary><strong>To Store or Not to Store: a graph theoretical approach for Dataset Versioning</strong><br>
 with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mukherjee. 
-<em>IPDPS 2024.</em> </summary>
+<em>IPDPS 2024.</em> <br>
 <a href="https://arxiv.org/abs/2402.11741">arXiv version</a> | <a href="https://ieeexplore.ieee.org/document/10579114">conference version</a>
+</summary>
 
 <strong>Summary:</strong> We study a graph-theoretic framework for dataset versioning that optimizes storage costs while maintaining retrieval costs of different versions. On the theory side, we showed the first hardness of approximation results and gave provably near-optimal algorithms for tree-like graphs (bounded treewidth). Our findings also led to better practical heuristics, providing up to 1000x speedup for the "MinSum Retrieval" problem on real-world Github repos. 
 
