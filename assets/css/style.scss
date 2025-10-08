@@ -1,5 +1,12 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  max-width: 90%; /* 你可以在这里调整数值 */
+  max-width: 1200px; /* 设置固定最大宽度 */
+  width: 95%; /* 在小屏幕上使用百分比 */
+}
+
+/* 调整主内容区域宽度 */
+section {
+  width: 70%; /* 增加主内容区域宽度，默认是 500px */
+  max-width: 900px;
 }
