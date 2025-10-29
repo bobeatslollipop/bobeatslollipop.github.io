@@ -5,10 +5,8 @@
   width: 95%; /* 在小屏幕上使用百分比 */
 }
 
-/* 调整主内容区域宽度 */
-section {
-  width: 80%; /* 增加主内容区域宽度，默认是 500px */
-  max-width: 1000px;
+header, section {
+  max-width: 900px; // 原始值是 600px，你可以改成 1000px, 1200px, 或者 80% 
 }
 
 h2 {
