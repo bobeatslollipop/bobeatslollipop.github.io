@@ -1,4 +1,5 @@
 # About Me
+
 I'm a third-year computer science PhD student at Northwestern University's [theory group](https://theory.cs.northwestern.edu/). I am generally interested in theoretical computer science. My current research focuses are in learning theory and high-dimensional statistics.  
 
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. (Go 'Cats!)
@@ -39,6 +40,7 @@ with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mu
 </details>
 
 # Education
+
 Northwestern University, Evanston, Illinois (2019-2023)\\
 B.A. in Math and M.S. in Computer Science
 
@@ -46,11 +48,13 @@ Northwestern University, Evanston, Illinois (2023-present)\\
 Ph.D. student in Computer Science
 
 # Awards
+
 Ph.D. student research award (Northwestern CS department), _2024-2025_. 
 
 [Barris Award for outstanding TA](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2025/northwestern-cs-announces-fall-2024-winter-2025-outstanding-teaching-assistants-and-peer-mentors.html), _2024 Fall quarter_. 
 
 # Other Experience
+
 **Ross Mathematics Program**\\
 I attended Ross Asia in 2018 as a first year student (and had a great time!), in 2019 as a junior counselor, and in 2020 as a counselor. 
 
@@ -61,6 +65,7 @@ In 2021 Spring, I participated in Math department's directed reading program, wh
 In 2025 Summer, I interned at Toyota Technological Institute at Chicago (TTIC) and studied various topics related to transformers. I was hosted by prof. [Zhiyuan Li](https://zhiyuanli.ttic.edu/).
 
 # Miscellaneous
+
 I have written two articles on 知乎 (Chinese version of Quora?) about theoretical computer science. Here's the [link](https://zhuanlan.zhihu.com/p/643661983). 
 
 I lived in Beijing for the first 18 years of my life. What I like the most about the city is its subway system and shared bicycles, which make travelling very easy and cheap. (I'm not a big fan of driving, due to the traumatic experience of looking for parking spots for half an hour.) 
