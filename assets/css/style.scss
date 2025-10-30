@@ -1,16 +1,22 @@
 ---
 ---
-// 这一行会导入 "minimal" 主题的原始样式
+// 导入 minimal v0.2.0 的默认样式
 @import "jekyll-theme-minimal";
 
 /* --- 在这里添加你的自定义覆盖规则 --- */
 
-/* 这是正确的选择器！用来设置你网页的宽度 */
-.wrapper {
-  max-width: 1000px; /* 你可以改成 1000px, 1200px, 或者 80% */
+/* * 这才是 v0.2.0 版的正确选择器！
+ * 这会覆盖 header (你的名字) 和 section (主要内容) 的宽度
+ */
+header, section {
+  max-width: 900px; /* 原始值是 600px。你也可以改成 1000px 或 1200px */
+  margin-left: auto; /* 保持居中 */
+  margin-right: auto; /* 保持居中 */
 }
 
-/* 这是你为 "Education" 标题添加的上边距，是正确的 */
-h2 {
-  margin-top: 24px; 
+/* * 这是你为标题添加的上边距，
+ * 这样你就不需要用 <br> 了
+ */
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 24px;
 }
