@@ -38,7 +38,6 @@ with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mu
 <strong>Summary:</strong> We study a graph-theoretic framework for dataset versioning that optimizes storage costs while maintaining retrieval costs of different versions. On the theory side, we showed the first hardness of approximation results and gave provably near-optimal algorithms for tree-like graphs (bounded treewidth). Our findings also led to better practical heuristics, providing up to 1000x speedup for the "MinSum Retrieval" problem on real-world Github repos. 
 
 </details>
-</br>
 
 # Education
 
