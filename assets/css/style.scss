@@ -1,14 +1,17 @@
-@import "{{ site.theme }}";
+---
+---
+// 这一行会导入 "minimal" 主题的原始样式
+@import "jekyll-theme-minimal";
 
+/* --- 在这里添加你的自定义覆盖规则 --- */
+
+/* 这是正确的选择器！用来设置你网页的宽度 */
 .wrapper {
-  max-width: 1200px; /* 设置固定最大宽度 */
-  width: 95%; /* 在小屏幕上使用百分比 */
+  max-width: 900px; /* 你可以改成 1000px, 1200px, 或者 80% */
+  /* width: 95%; */ /* 这一行可以去掉，minimal 主题会为你自动处理小屏幕 */
 }
 
-header, section {
-  max-width: 900px; // 原始值是 600px，你可以改成 1000px, 1200px, 或者 80% 
-}
-
+/* 这是你为 "Education" 标题添加的上边距，是正确的 */
 h2 {
-  margin-top: 24px; /* 你可以调整 24px 来匹配其他标题的间距 */
+  margin-top: 24px; 
 }
