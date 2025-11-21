@@ -9,8 +9,8 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <details>
 <summary>
 <strong>A Rate-Distortion Theory for Membership Testing: From Filters to LLM Hallucination</strong><br>
-<em>Manuscript under review</em>.<br/>
-<a href="/assets/main.pdf">See the draft</a>
+<em>Manuscript</em>.<br/>
+<!-- <a href="/assets/main.pdf">See the draft</a> -->
 </summary>
 
 <strong>Summary:</strong> We introduce generalized membership testing, a unifying abstraction that captures classical approximate set membership (including Bloom filters) and large-language-model (LLM) decision losses under a single, task-dependent error framework. We develop an information-theoretic characterization of the optimal space–error tradeoff, revealing a rate–distortion–style frontier whose leading term is governed by relative entropy. 
