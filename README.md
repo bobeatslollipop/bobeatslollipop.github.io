@@ -8,14 +8,14 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 <details>
 <summary>
-<strong>A Rate-Distortion Theory for Membership Testing: From Filters to LLM Hallucination</strong><br>
+<strong>Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing</strong><br>
 <em>Manuscript</em>.<br/>
-<!-- <a href="/assets/main.pdf">See the draft</a> -->
+<a href="/assets/main_arxiv.pdf">See the draft</a>
 </summary>
 
-<strong>Summary:</strong> We introduce generalized membership testing, a unifying abstraction that captures classical approximate set membership (including Bloom filters) and large-language-model (LLM) decision losses under a single, task-dependent error framework. We develop an information-theoretic characterization of the optimal space–error tradeoff, revealing a rate–distortion–style frontier whose leading term is governed by relative entropy. 
+<strong>Summary:</strong> We introduce generalized membership testing, a unifying abstraction that captures classical approximate set membership (including Bloom filters) and large-language-model (LLM) decision losses under a single, task-dependent error framework. We develop an information-theoretic characterization of the optimal space–error tradeoff, revealing a rate–distortion–style frontier whose leading term is governed by KL divergence. 
 
-Applying our results on LLMs with cross-entropy loss, we show that an optimally trained/compressed LLM must hallucinate with high confidence. For two-sided filters allowing false negatives and false positives, we refine a known space lower bound into its tight form, which we show to be achievable via a simple hash function-based filter. 
+Applying our results on LLMs with cross-entropy loss, we show that an optimally trained/compressed LLM must hallucinate with high confidence. For two-sided filters allowing false negatives and false positives, we refine known space lower bounds into its tight form, which we show to be achievable via a simple hash function-based filter. 
 </details>
 <br>
 
