@@ -10,7 +10,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <summary>
 <strong>Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing</strong><br>
 <em>Manuscript</em>.<br/>
-<a href="/assets/main_arxiv.pdf">See the draft</a>
+<a href="https://arxiv.org/abs/2602.00906">arXiv version</a>
 </summary>
 
 <strong>Summary:</strong> We introduce generalized membership testing, a unifying abstraction that captures classical approximate set membership (including Bloom filters) and large-language-model (LLM) decision losses under a single, task-dependent error framework. We develop an information-theoretic characterization of the optimal space–error tradeoff, revealing a rate–distortion–style frontier whose leading term is governed by KL divergence. 
