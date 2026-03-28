@@ -1,6 +1,6 @@
 # About Me
 
-I'm a third-year computer science PhD student at Northwestern University's [theory group](https://theory.cs.northwestern.edu/). I am generally interested in theoretical computer science. My current research focuses are in learning theory and high-dimensional statistics.  
+I'm a third-year computer science PhD student at Northwestern University's [theory group](https://theory.cs.northwestern.edu/). I am generally interested in theoretical computer science. I'm generally interested in theoretical aspects of machine learning.  
 
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. (Go Cats!)
 
