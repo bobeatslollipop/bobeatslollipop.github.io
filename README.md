@@ -9,7 +9,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <details>
 <summary>
 <strong>A Rate-Distortion Theory for Membership Testing: From Filters to LLM Hallucination</strong><br>
-with Jingwei Li. <em>ICML 2025 (spotlight).</em><br>
+with Jingwei Li. <em>ICML 2026 (spotlight).</em><br>
 <a href="https://arxiv.org/abs/2602.00906">arXiv version</a>
 </summary>
 
