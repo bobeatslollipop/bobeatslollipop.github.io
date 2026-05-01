@@ -13,9 +13,7 @@ with Jingwei Li. <em>ICML 2026 (spotlight).</em><br>
 <a href="https://arxiv.org/abs/2602.00906">arXiv version</a>
 </summary>
 
-<strong>Summary:</strong> We introduce generalized membership testing, a unifying abstraction that captures classical approximate set membership (including Bloom filters) and large-language-model (LLM) decision losses under a single, task-dependent error framework. We develop an information-theoretic characterization of the optimal space–error tradeoff, revealing a rate–distortion–style frontier whose leading term is governed by KL divergence. 
-
-Applying our results on LLMs with cross-entropy loss, we show that an optimally trained/compressed LLM must hallucinate with high confidence. For two-sided filters allowing false negatives and false positives, we refine known space lower bounds into its tight form, which we show to be achievable via a simple hash function-based filter. 
+<strong>Summary:</strong> Large language models often hallucinate with high confidence on "random facts" that lack inferable patterns. We formalize the memorization of such facts as a membership testing problem, unifying the discrete error metrics of Bloom filters with the continuous log-loss of LLMs. By analyzing this problem in the regime where facts are sparse in the universe of plausible claims, we establish a rate-distortion theorem: the optimal memory efficiency is characterized by the minimum KL divergence between score distributions on facts and non-facts. This theoretical framework provides a distinctive explanation for hallucination: even with optimal training, perfect data, and a simplified "closed world" setting, the information-theoretically optimal strategy under limited capacity is not to abstain or forget, but to assign high confidence to some non-facts, resulting in hallucination. We validate this theory empirically on synthetic data, showing that hallucinations persist as a natural consequence of lossy compression.
 </details>
 <br>
 
