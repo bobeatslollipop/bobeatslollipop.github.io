@@ -4,7 +4,7 @@ I'm a third-year computer science PhD student in Northwestern University's [theo
 
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. (Go Cats!)
 
-## Research
+## Publications
 
 <details class="paper">
 <summary>
@@ -54,26 +54,18 @@ Ph.D. student research award (Northwestern CS department), _2024-2025_.
 
 Junior Career Award in Mathematics (Northwestern math department), _2021-2022_. 
 
-## Research Experience
+## Academic Activities
 
-**IDEAL Summer Intern**\\
-In Summer 2025, I interned at Toyota Technological Institute at Chicago (TTIC) and studied topics related to transformers. I was hosted by Prof. [Zhiyuan Li](https://zhiyuanli.ttic.edu/).
+**Research Experience**\\
+IDEAL Summer Intern, Toyota Technological Institute at Chicago (TTIC), Summer 2025. Hosted by Prof. [Zhiyuan Li](https://zhiyuanli.ttic.edu/).
 
-## Service
+**Service**\\
+Program Committee / Reviewer, [Reliable ML from Unreliable Data](https://reliablemlworkshop.github.io/), NeurIPS 2025 Workshop.\\
+Volunteer, [FOCS 2024](https://focs.computer.org/2024/) (65th IEEE Symposium on Foundations of Computer Science), Chicago, IL.
 
-**Program Committee / Reviewer**\\
-[Reliable ML from Unreliable Data](https://reliablemlworkshop.github.io/), NeurIPS 2025 Workshop.
-
-**Volunteer**\\
-[FOCS 2024](https://focs.computer.org/2024/) (65th IEEE Symposium on Foundations of Computer Science), Chicago, IL.
-
-## Teaching, Mentoring, and Programs
-
-**Ross Mathematics Program**\\
-I attended Ross Asia in 2018 as a first year student (and had a great time!), in 2019 as a junior counselor, and in 2020 as a counselor. 
-
-**Directed Reading Program**\\
-In 2021 Spring, I participated in Math department's directed reading program, where I read 6 chapters of _Linear Representations of Finite Groups_ with [Wenyuan Li](https://wenyuanli1995-math.github.io/). 
+**Teaching and Programs**\\
+Ross Mathematics Program: first-year student (2018), junior counselor (2019), counselor (2020).\\
+Directed Reading Program: Spring 2021, read _Linear Representations of Finite Groups_ with [Wenyuan Li](https://wenyuanli1995-math.github.io/).
 
 ## Miscellaneous
 
