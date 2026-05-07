@@ -1,10 +1,10 @@
-# About Me
+## About Me
 
 I'm a third-year computer science PhD student in Northwestern University's [theory group](https://theory.cs.northwestern.edu/). My research interests are in theoretical computer science and the theoretical foundations of machine learning.
 
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. (Go Cats!)
 
-# Research
+## Research
 
 <details class="paper">
 <summary>
@@ -38,7 +38,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 </details>
 
-# Education
+## Education
 
 Northwestern University, Evanston, Illinois (2019-2023)\\
 B.A. in Math and M.S. in Computer Science
@@ -46,7 +46,7 @@ B.A. in Math and M.S. in Computer Science
 Northwestern University, Evanston, Illinois (2023-present)\\
 Ph.D. student in Computer Science
 
-# Awards
+## Awards
 
 Ph.D. student research award (Northwestern CS department), _2024-2025_. 
 
@@ -54,12 +54,12 @@ Ph.D. student research award (Northwestern CS department), _2024-2025_.
 
 Junior Career Award in Mathematics (Northwestern math department), _2021-2022_. 
 
-# Research Experience
+## Research Experience
 
 **IDEAL Summer Intern**\\
 In Summer 2025, I interned at Toyota Technological Institute at Chicago (TTIC) and studied topics related to transformers. I was hosted by Prof. [Zhiyuan Li](https://zhiyuanli.ttic.edu/).
 
-# Service
+## Service
 
 **Program Committee / Reviewer**\\
 [Reliable ML from Unreliable Data](https://reliablemlworkshop.github.io/), NeurIPS 2025 Workshop.
@@ -67,7 +67,7 @@ In Summer 2025, I interned at Toyota Technological Institute at Chicago (TTIC) a
 **Volunteer**\\
 [FOCS 2024](https://focs.computer.org/2024/) (65th IEEE Symposium on Foundations of Computer Science), Chicago, IL.
 
-# Teaching, Mentoring, and Programs
+## Teaching, Mentoring, and Programs
 
 **Ross Mathematics Program**\\
 I attended Ross Asia in 2018 as a first year student (and had a great time!), in 2019 as a junior counselor, and in 2020 as a counselor. 
@@ -75,7 +75,7 @@ I attended Ross Asia in 2018 as a first year student (and had a great time!), in
 **Directed Reading Program**\\
 In 2021 Spring, I participated in Math department's directed reading program, where I read 6 chapters of _Linear Representations of Finite Groups_ with [Wenyuan Li](https://wenyuanli1995-math.github.io/). 
 
-# Miscellaneous
+## Miscellaneous
 
 I have written two articles on 知乎 (Chinese version of Quora?) about theoretical computer science. Here's the [link](https://zhuanlan.zhihu.com/p/643661983). 
 
