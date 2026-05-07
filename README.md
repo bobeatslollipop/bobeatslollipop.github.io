@@ -1,45 +1,42 @@
 # About Me
 
-I'm a third-year computer science PhD student at Northwestern University's [theory group](https://theory.cs.northwestern.edu/). I am generally interested in theoretical computer science. I'm generally interested in theoretical aspects of machine learning.  
+I'm a third-year computer science PhD student in Northwestern University's [theory group](https://theory.cs.northwestern.edu/). My research interests are in theoretical computer science and the theoretical foundations of machine learning.
 
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. (Go Cats!)
 
 # Research
 
-<details>
+<details class="paper">
 <summary>
-<strong>Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing</strong><br>
-with Jingwei Li. <em>ICML 2026 (<strong>spotlight</strong>).</em><br>
-<a href="https://arxiv.org/abs/2602.00906">arXiv version</a>
+<span class="paper-title">Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing</span><br>
+<span class="paper-meta">with Jingwei Li. <em>ICML 2026 (<strong>spotlight</strong>).</em></span><br>
+<span class="paper-links"><a href="https://arxiv.org/abs/2602.00906">arXiv</a></span>
 </summary>
 
-<strong>Summary:</strong> Large language models often hallucinate with high confidence on "random facts" that lack inferable patterns. We formalize the memorization of such facts as a membership testing problem, unifying the discrete error metrics of Bloom filters with the continuous log-loss of LLMs. By analyzing this problem in the regime where facts are sparse in the universe of plausible claims, we establish a rate-distortion theorem: the optimal memory efficiency is characterized by the minimum KL divergence between score distributions on facts and non-facts. This theoretical framework provides a distinctive explanation for hallucination: even with optimal training, perfect data, and a simplified "closed world" setting, the information-theoretically optimal strategy under limited capacity is not to abstain or forget, but to assign high confidence to some non-facts, resulting in hallucination. We validate this theory empirically on synthetic data, showing that hallucinations persist as a natural consequence of lossy compression.
+<p><strong>Summary:</strong> We model the memorization of random, non-inferable facts as a membership testing problem, connecting Bloom-filter-style error metrics with the log-loss behavior of language models. In the sparse-fact regime, we prove a rate-distortion theorem showing that the optimal space-error tradeoff is governed by a KL-divergence frontier. The result gives an information-theoretic explanation for high-confidence hallucinations: under limited capacity, even an optimal model may assign high confidence to some non-facts rather than simply abstaining or forgetting.</p>
 </details>
-<br>
 
-<details>
+<details class="paper">
 <summary>
-<strong>Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals</strong><br>
-with Aravindan Vijayaraghavan. <em>COLT 2025.</em><br>
-<a href="https://arxiv.org/abs/2411.14349">arXiv version</a> | <a href="https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf">conference version</a> | <a href="https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2">Recorded virtual talk</a> 
+<span class="paper-title">Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals</span><br>
+<span class="paper-meta">with Aravindan Vijayaraghavan. <em>COLT 2025.</em></span><br>
+<span class="paper-links"><a href="https://arxiv.org/abs/2411.14349">arXiv</a> | <a href="https://proceedings.mlr.press/v291/guo25a.html">conference version</a> | <a href="https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf">PDF</a> | <a href="https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2">recorded virtual talk</a></span>
 </summary>
 
-<strong>Summary:</strong> We gave the first algorithm for agnostic PAC learning of an arbitrarily biased ReLU neuron under Gaussian input distributions, up to constant approximation. We also showed hardness separation bewteen SQ (statistical query) and CSQ (correlational statistical query) models for this problem. In particular, most gradient-based algorithm would fail to obtain constant approximation. 
+<p><strong>Summary:</strong> We give the first algorithm for agnostic PAC learning of an arbitrarily biased ReLU neuron under Gaussian input distributions, up to constant approximation. We also prove a hardness separation between SQ (statistical query) and CSQ (correlational statistical query) models for this problem, showing a limitation of gradient-based algorithms in this setting.</p>
 
 </details>
-<br>
 
-<details>
-<summary><strong>To Store or Not to Store: a graph theoretical approach for Dataset Versioning</strong><br>
-with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mukherjee. 
-<em>IPDPS 2024.</em> <br>
-<a href="https://arxiv.org/abs/2402.11741">arXiv version</a> | <a href="https://ieeexplore.ieee.org/document/10579114">conference version</a>
+<details class="paper">
+<summary>
+<span class="paper-title">To Store or Not to Store: A Graph-Theoretic Approach for Dataset Versioning</span><br>
+<span class="paper-meta">with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mukherjee. <em>IPDPS 2024.</em></span><br>
+<span class="paper-links"><a href="https://arxiv.org/abs/2402.11741">arXiv</a> | <a href="https://ieeexplore.ieee.org/document/10579114">conference version</a></span>
 </summary>
 
-<strong>Summary:</strong> We study a graph-theoretic framework for dataset versioning that optimizes storage costs while maintaining retrieval costs of different versions. On the theory side, we showed the first hardness of approximation results and gave provably near-optimal algorithms for tree-like graphs (bounded treewidth). Our findings also led to better practical heuristics, providing up to 1000x speedup for the "MinSum Retrieval" problem on real-world Github repos. 
+<p><strong>Summary:</strong> We study a graph-theoretic framework for dataset versioning that optimizes storage costs while controlling retrieval costs across versions. On the theory side, we prove hardness-of-approximation results and give provably near-optimal algorithms for tree-like graphs of bounded treewidth. These results also lead to practical heuristics with up to 1000x speedups for the "MinSum Retrieval" problem on real-world GitHub repositories.</p>
 
 </details>
-<br>
 
 # Education
 

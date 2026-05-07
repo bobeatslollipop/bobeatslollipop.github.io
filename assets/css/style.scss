@@ -1,22 +1,135 @@
 ---
 ---
-// 导入 minimal v0.2.0 的默认样式
 @import "jekyll-theme-minimal";
 
-/* --- 在这里添加你的自定义覆盖规则 --- */
-
-/* * 这才是 v0.2.0 版的正确选择器！
- * 这会覆盖 header (你的名字) 和 section (主要内容) 的宽度
- */
-header, section {
-  max-width: 900px; /* 原始值是 600px。你也可以改成 1000px 或 1200px */
-  margin-left: auto; /* 保持居中 */
-  margin-right: auto; /* 保持居中 */
+body {
+  color: #24292f;
+  line-height: 1.62;
 }
 
-/* * 这是你为标题添加的上边距，
- * 这样你就不需要用 <br> 了
- */
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 24px;
+.wrapper {
+  max-width: 980px;
+  width: auto;
+  padding: 0 32px;
+}
+
+header,
+footer {
+  width: 250px;
+}
+
+section {
+  width: 660px;
+}
+
+header img {
+  width: 170px;
+  height: 210px;
+  object-fit: cover;
+  object-position: center 38%;
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(27, 31, 36, 0.12);
+}
+
+a {
+  color: #1f6feb;
+}
+
+a:hover,
+a:focus {
+  color: #0a3069;
+  font-weight: normal;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 28px;
+  color: #1f2328;
+}
+
+section > h1:first-child {
+  margin-top: 0;
+}
+
+.paper {
+  margin: 16px 0;
+  padding: 14px 16px;
+  border: 1px solid #d8dee4;
+  border-radius: 8px;
+  background: #ffffff;
+}
+
+.paper[open] {
+  border-color: #b6c2cf;
+  box-shadow: 0 8px 24px rgba(27, 31, 36, 0.06);
+}
+
+.paper summary {
+  cursor: pointer;
+  list-style-position: outside;
+}
+
+.paper summary:hover .paper-title,
+.paper summary:focus .paper-title {
+  color: #0969da;
+}
+
+.paper-title {
+  color: #1f2328;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.paper-meta {
+  color: #57606a;
+}
+
+.paper-links {
+  display: inline-block;
+  margin-top: 4px;
+  font-size: 14px;
+}
+
+.paper p {
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    padding: 0 24px;
+  }
+
+  header,
+  section,
+  footer {
+    width: auto;
+  }
+
+  header {
+    padding-right: 0;
+  }
+
+  header img {
+    width: 150px;
+    height: 185px;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  .wrapper {
+    padding: 0 16px;
+  }
+
+  .paper {
+    padding: 12px;
+  }
+
+  .paper-title {
+    font-size: 15px;
+  }
 }
