@@ -9,7 +9,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <details class="paper">
 <summary>
 <span class="paper-title">Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing</span><br>
-<span class="paper-meta">with Jingwei Li. <em>ICML 2026 (<strong>spotlight</strong>).</em></span><br>
+<span class="paper-meta">with <a href="https://ieor.columbia.edu/content/jingwei-li">Jingwei Li</a>. <em>ICML 2026 (<strong>spotlight</strong>).</em></span><br>
 <span class="paper-links"><a href="https://arxiv.org/abs/2602.00906">arXiv</a></span>
 </summary>
 
@@ -19,7 +19,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <details class="paper">
 <summary>
 <span class="paper-title">Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals</span><br>
-<span class="paper-meta">with Aravindan Vijayaraghavan. <em>COLT 2025.</em></span><br>
+<span class="paper-meta">with <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>. <em>COLT 2025.</em></span><br>
 <span class="paper-links"><a href="https://arxiv.org/abs/2411.14349">arXiv</a> | <a href="https://proceedings.mlr.press/v291/guo25a.html">conference version</a> | <a href="https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf">PDF</a> | <a href="https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2">recorded virtual talk</a></span>
 </summary>
 
@@ -30,7 +30,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <details class="paper">
 <summary>
 <span class="paper-title">To Store or Not to Store: A Graph-Theoretic Approach for Dataset Versioning</span><br>
-<span class="paper-meta">with Jingwei Li, Pattara Sukprasert, Samir Khuller, Amol Deshpande, and Koyel Mukherjee. <em>IPDPS 2024.</em></span><br>
+<span class="paper-meta">with <a href="https://ieor.columbia.edu/content/jingwei-li">Jingwei Li</a>, <a href="https://pattaras.github.io/">Pattara Sukprasert</a>, <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/khuller-samir.html">Samir Khuller</a>, <a href="https://www.cs.umd.edu/~amol/">Amol Deshpande</a>, and <a href="https://research.adobe.com/person/koyel-mukherjee/">Koyel Mukherjee</a>. <em>IPDPS 2024.</em></span><br>
 <span class="paper-links"><a href="https://arxiv.org/abs/2402.11741">arXiv</a> | <a href="https://ieeexplore.ieee.org/document/10579114">conference version</a></span>
 </summary>
 
@@ -57,6 +57,7 @@ Junior Career Award in Mathematics (Northwestern math department), _2021-2022_.
 ## Academic Activities
 
 **Research Experience**\\
+IDEAL Summer Intern, University of Chicago, Summer 2026. Hosted by Prof. [Chao Gao](https://stat.uchicago.edu/people/profile/chao-gao/).\\
 IDEAL Summer Intern, Toyota Technological Institute at Chicago (TTIC), Summer 2025. Hosted by Prof. [Zhiyuan Li](https://zhiyuanli.ttic.edu/).
 
 **Service**\\
