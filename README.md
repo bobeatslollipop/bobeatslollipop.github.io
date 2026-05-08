@@ -48,25 +48,26 @@ Ph.D. student in Computer Science
 
 ## Awards
 
-Ph.D. student research award (Northwestern CS department), _2024-2025_. 
-
-[Barris Award for outstanding TA](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2025/northwestern-cs-announces-fall-2024-winter-2025-outstanding-teaching-assistants-and-peer-mentors.html), _2024 Fall quarter_. 
-
-Junior Career Award in Mathematics (Northwestern math department), _2021-2022_. 
+- Ph.D. student research award (Northwestern CS department), _2024-2025_.
+- [Barris Award for outstanding TA](https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2025/northwestern-cs-announces-fall-2024-winter-2025-outstanding-teaching-assistants-and-peer-mentors.html), _2024 Fall quarter_.
+- Junior Career Award in Mathematics (Northwestern math department), _2021-2022_.
 
 ## Academic Activities
 
-**Research Experience**\\
-IDEAL Summer Intern, University of Chicago, Summer 2026. Hosted by Prof. [Chao Gao](https://stat.uchicago.edu/people/profile/chao-gao/).\\
-IDEAL Summer Intern, Toyota Technological Institute at Chicago (TTIC), Summer 2025. Hosted by Prof. [Zhiyuan Li](https://zhiyuanli.ttic.edu/).
+### Research Experience
 
-**Service**\\
-Program Committee / Reviewer, [Reliable ML from Unreliable Data](https://reliablemlworkshop.github.io/), NeurIPS 2025 Workshop.\\
-Volunteer, [FOCS 2024](https://focs.computer.org/2024/) (65th IEEE Symposium on Foundations of Computer Science), Chicago, IL.
+- IDEAL Summer Intern, University of Chicago, Summer 2026. Hosted by Prof. [Chao Gao](https://stat.uchicago.edu/people/profile/chao-gao/).
+- IDEAL Summer Intern, Toyota Technological Institute at Chicago (TTIC), Summer 2025. Hosted by Prof. [Zhiyuan Li](https://zhiyuanli.ttic.edu/).
 
-**Teaching and Programs**\\
-Ross Mathematics Program: first-year student (2018), junior counselor (2019), counselor (2020).\\
-Directed Reading Program: Spring 2021, read _Linear Representations of Finite Groups_ with [Wenyuan Li](https://wenyuanli1995-math.github.io/).
+### Service
+
+- Program Committee / Reviewer, [Reliable ML from Unreliable Data](https://reliablemlworkshop.github.io/), NeurIPS 2025 Workshop.
+- Volunteer, [FOCS 2024](https://focs.computer.org/2024/) (65th IEEE Symposium on Foundations of Computer Science), Chicago, IL.
+
+### Teaching and Programs
+
+- Ross Mathematics Program: first-year student (2018), junior counselor (2019), counselor (2020).
+- Directed Reading Program: Spring 2021, read _Linear Representations of Finite Groups_ with [Wenyuan Li](https://wenyuanli1995-math.github.io/).
 
 ## Miscellaneous
 
