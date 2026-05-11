@@ -64,7 +64,7 @@ Ph.D. student in Computer Science
 - IDEAL-funded summer research exchange, University of Chicago, Summer 2026. Hosted by Prof. [Chao Gao](https://www.stat.uchicago.edu/~chaogao/).
 - IDEAL-funded summer research exchange, Toyota Technological Institute at Chicago (TTIC), Summer 2025. Hosted by Prof. [Zhiyuan Li](https://zhiyuanli.ttic.edu/).
 - Teaching Assistant, CS 336: Design and Analysis of Algorithms, _2026 Spring quarter_.
-- Teaching Assistant, CS 335: Introduction to the Theory of Computing, _2024 Fall quarter_.
+- Teaching Assistant, CS 335: Introduction to the Theory of Computing, _2024 Fall quarter_. Guest lecture on busy beaver numbers.
 
 ### Service and Programs
 
@@ -75,6 +75,11 @@ Ph.D. student in Computer Science
 
 ## Miscellaneous
 
-I have written two articles on 知乎 (Chinese version of Quora?) about theoretical computer science. Here's the [link](https://zhuanlan.zhihu.com/p/643661983). 
+I have written two articles on 知乎 about theoretical computer science. Here is the [link](https://zhuanlan.zhihu.com/p/643661983).
 
-I lived in Beijing for the first 18 years of my life. What I like the most about the city is its subway system and shared bicycles, which make travelling very easy and cheap. (I'm not a big fan of driving, due to the traumatic experience of looking for parking spots for half an hour.) 
+<details>
+<summary>More personal notes</summary>
+
+I grew up in Beijing and still have a soft spot for its subway system and shared bicycles.
+
+</details>
