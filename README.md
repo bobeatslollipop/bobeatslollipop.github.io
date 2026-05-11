@@ -20,7 +20,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <summary>
 <span class="paper-title">Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals</span><br>
 <span class="paper-meta">with <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>. <em>COLT 2025.</em></span><br>
-<span class="paper-links"><a href="https://arxiv.org/abs/2411.14349">arXiv</a> | <a href="https://proceedings.mlr.press/v291/guo25a.html">conference version</a> | <a href="https://raw.githubusercontent.com/mlresearch/v291/main/assets/guo25a/guo25a.pdf">PDF</a> | <a href="https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2">recorded virtual talk</a></span>
+<span class="paper-links"><a href="https://arxiv.org/abs/2411.14349">arXiv</a> | <a href="https://proceedings.mlr.press/v291/guo25a.html">conference version</a> | <a href="https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2">recorded virtual talk</a></span>
 </summary>
 
 <p><strong>Summary:</strong> We give the first algorithm for agnostic PAC learning of an arbitrarily biased ReLU neuron under Gaussian input distributions, up to constant approximation. We also prove a hardness separation between SQ (statistical query) and CSQ (correlational statistical query) models for this problem, showing a limitation of gradient-based algorithms in this setting.</p>
