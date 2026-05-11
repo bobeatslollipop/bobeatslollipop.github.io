@@ -6,6 +6,11 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 ## Publications
 
+<div class="paper">
+<span class="paper-title">Copying Under Repetition: From Prefix Matching to Position Hashing</span><br>
+<span class="paper-meta">with Tianlong Huang, Chenxiao Yang, and Zhiyuan Li. <em>Manuscript.</em></span>
+</div>
+
 <details class="paper">
 <summary>
 <span class="paper-title">Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing</span><br>
