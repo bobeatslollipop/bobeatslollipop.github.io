@@ -43,7 +43,7 @@
 }
 
 \newenvironment{cvitems}{%
-  \begin{itemize}[leftmargin=1.2em,itemsep=0.12em,topsep=0.18em]
+  \begin{itemize}[leftmargin=1.2em,itemsep=0.03em,topsep=0.1em,parsep=0pt,partopsep=0pt]
 }{%
   \end{itemize}
 }
@@ -53,6 +53,8 @@
   #2\par
   \emph{#3}#4\par
 }
+
+\newcommand{\papersep}{\vspace{0.45em}}
 
 \begin{document}
 
@@ -82,6 +84,7 @@ Theoretical computer science and the theoretical foundations of machine learning
 {With Ruize Xu, Yi Gu, Tianchong Jiang, Chenxiao Yang, and Zhiyuan Li.}
 {Manuscript.}
 {}
+\papersep
 
 \paperentry
 {Copying Under Repetition: From Prefix Matching to Position Hashing}
@@ -95,6 +98,7 @@ Theoretical computer science and the theoretical foundations of machine learning
   \item Showed that the augmented architecture can copy arbitrary strings using logarithmic width and $\log \log N$ precision.
   \item Built diagnostic experiments showing that frontier 400B-parameter language models struggle to copy strings with extreme repetition.
 \end{cvitems}
+\papersep
 
 \paperentry
 {Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing}
@@ -107,6 +111,7 @@ Theoretical computer science and the theoretical foundations of machine learning
   \item Showed that optimally trained language models under cross-entropy loss with bounded memory may assign high confidence to unseen non-facts as a structural consequence of limited capacity.
   \item Extended known bounds for Bloom-type filters into a tight form, including regimes where false negatives are allowed.
 \end{cvitems}
+\papersep
 
 \paperentry
 {Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals}
@@ -118,6 +123,7 @@ Theoretical computer science and the theoretical foundations of machine learning
   \item Established a formal separation between Statistical Query (SQ) and Correlational Statistical Query (CSQ) models for this problem, proving limitations of gradient-based algorithms in this setting.
   \item Designed a method combining Thresholded PCA and Reweighted Gradient Descent to overcome limitations of standard gradient-based approaches.
 \end{cvitems}
+\papersep
 
 \paperentry
 {To Store or Not to Store: A Graph-Theoretic Approach for Dataset Versioning}
