@@ -1,0 +1,24 @@
+# LaTeX build artifacts. Keep the source .tex and final .pdf visible to git.
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+*.xdv
+
+# Editor and temporary files
+*.bak
+*.tmp
+*.swp
+*.swo

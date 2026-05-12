@@ -1,0 +1,171 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[margin=0.72in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\definecolor{linkblue}{HTML}{1F4E79}
+\hypersetup{
+  colorlinks=true,
+  urlcolor=linkblue,
+  linkcolor=linkblue
+}
+\urlstyle{same}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.18em}
+\setlength{\tabcolsep}{0pt}
+\pagestyle{empty}
+
+\titleformat{\section}
+  {\large\bfseries}
+  {}
+  {0pt}
+  {}
+  [\titlerule]
+\titlespacing*{\section}{0pt}{0.95em}{0.45em}
+
+\newcommand{\datedline}[2]{%
+  \begin{tabularx}{\textwidth}{@{}X@{\hspace{0.8em}}r@{}}
+    #1 & #2
+  \end{tabularx}\par
+}
+
+\newcommand{\cvitem}[2]{%
+  \textbf{#1:} #2\par
+}
+
+\newenvironment{cvitems}{%
+  \begin{itemize}[leftmargin=1.2em,itemsep=0.12em,topsep=0.18em]
+}{%
+  \end{itemize}
+}
+
+\newcommand{\paperentry}[4]{%
+  \textbf{#1}\par
+  #2\par
+  \emph{#3}#4\par
+}
+
+\begin{document}
+
+\begin{center}
+  {\LARGE \textbf{Anxin (Bob) Guo}}\\[0.25em]
+  \href{mailto:anxinbguo@gmail.com}{anxinbguo@gmail.com}
+  \quad|\quad
+  \href{https://anxin-bob-guo.org}{anxin-bob-guo.org}
+\end{center}
+
+\section{Education}
+
+\datedline{\textbf{Northwestern University}, Evanston, Illinois}{September 2023 -- Present}
+Ph.D. student in Computer Science.
+
+\datedline{\textbf{Northwestern University}, Evanston, Illinois}{September 2019 -- June 2023}
+B.A. in Mathematics and M.S. in Computer Science. GPA: 3.92/4.00.
+
+\section{Research Interests}
+
+Theoretical computer science and the theoretical foundations of machine learning, including learning theory, neural network expressivity, and information-theoretic interpretations of language models.
+
+\section{Research Projects and Papers}
+
+\paperentry
+{Copying Under Repetition: From Prefix Matching to Position Hashing}
+{With Tianlong Huang, Chenxiao Yang, and Zhiyuan Li.}
+{Manuscript.}
+{}
+\begin{cvitems}
+  \item Formalized finite-horizon uniformity, an expressivity regime between non-uniform circuits and fully uniform transformers, where one model must handle all inputs up to length $N$ while resources may scale with $N$.
+  \item Proved impossibility results for a class of transformers spanning NoPE and a practical implementation of ALiBi: they cannot correctly terminate the copy task even with depth $N^{0.01}$, near-logarithmic precision, and arbitrary width.
+  \item Designed a modular attention head, a plug-in augmentation using value rotation with integer period $p$ to encode query-key distance through the value stream.
+  \item Showed that the augmented architecture can copy arbitrary strings using logarithmic width and $\log \log N$ precision.
+  \item Built diagnostic experiments showing that frontier 400B-parameter language models struggle to copy strings with extreme repetition.
+\end{cvitems}
+
+\paperentry
+{Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing}
+{With \href{https://ieor.columbia.edu/content/jingwei-li}{Jingwei Li}.}
+{International Conference on Machine Learning (ICML), 2026, spotlight.}
+{ \href{https://arxiv.org/abs/2602.00906}{arXiv}.}
+\begin{cvitems}
+  \item Defined membership testing as a unifying abstraction for approximate set membership, Bloom-filter-style error metrics, and factual errors in language models.
+  \item Established the optimal space-error tradeoff in this framework, with an asymptotic lower bound governed by relative entropy, analogous to rate-distortion theory.
+  \item Showed that optimally trained language models under cross-entropy loss with bounded memory may assign high confidence to unseen non-facts as a structural consequence of limited capacity.
+  \item Extended known bounds for Bloom-type filters into a tight form, including regimes where false negatives are allowed.
+\end{cvitems}
+
+\paperentry
+{Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals}
+{With \href{https://users.cs.northwestern.edu/~aravindv/}{Aravindan Vijayaraghavan}.}
+{Conference on Learning Theory (COLT), 2025.}
+{ \href{https://arxiv.org/abs/2411.14349}{arXiv}; \href{https://proceedings.mlr.press/v291/guo25a.html}{conference version}; \href{https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2}{recorded talk}.}
+\begin{cvitems}
+  \item Gave the first polynomial-time constant-factor approximation agnostic learner for arbitrarily biased ReLU neurons under Gaussian marginals.
+  \item Established a formal separation between Statistical Query (SQ) and Correlational Statistical Query (CSQ) models for this problem, proving limitations of gradient-based algorithms in this setting.
+  \item Designed a method combining Thresholded PCA and Reweighted Gradient Descent to overcome limitations of standard gradient-based approaches.
+\end{cvitems}
+
+\paperentry
+{To Store or Not to Store: A Graph-Theoretic Approach for Dataset Versioning}
+{With \href{https://ieor.columbia.edu/content/jingwei-li}{Jingwei Li}, \href{https://pattaras.github.io/}{Pattara Sukprasert}, \href{https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/khuller-samir.html}{Samir Khuller}, \href{https://www.cs.umd.edu/~amol/}{Amol Deshpande}, and \href{https://research.adobe.com/person/koyel-mukherjee/}{Koyel Mukherjee}.}
+{IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2024.}
+{ \href{https://arxiv.org/abs/2402.11741}{arXiv}; \href{https://ieeexplore.ieee.org/document/10579114}{conference version}.}
+\begin{cvitems}
+  \item Formulated and analyzed approximation algorithms and heuristics for optimizing the storage-retrieval cost tradeoff in large-scale dataset versioning systems.
+  \item Designed provably near-optimal algorithms for tree-like graphs by exploiting low-treewidth structure.
+  \item Implemented and benchmarked proposed heuristics on experiments based on real-world GitHub repository data, improving performance by up to 1000x over prior methods.
+\end{cvitems}
+
+\section{Awards and Honors}
+
+\datedline{\textbf{Ph.D. Student Research Award}, Computer Science Department, Northwestern University}{2024 -- 2025}
+\datedline{\textbf{Barris Award for Outstanding TA}, CS 335: Introduction to the Theory of Computing}{Fall 2024}
+\datedline{\textbf{Junior Career Award in Mathematics}, Mathematics Department, Northwestern University}{2021 -- 2022}
+
+\section{Research and Teaching}
+
+\datedline{\textbf{IDEAL-funded summer research exchange}, University of Chicago}{Summer 2026}
+Hosted by \href{https://www.stat.uchicago.edu/~chaogao/}{Chao Gao}.
+
+\datedline{\textbf{Research Intern / IDEAL-funded summer research exchange}, TTIC}{Summer 2025}
+Toyota Technological Institute at Chicago. Hosted by \href{https://zhiyuanli.ttic.edu/}{Zhiyuan Li}.
+\begin{cvitems}
+  \item Initiated the transformer copying project during the internship.
+  \item Built experiments validating the failure mode of frontier language models and the proposed architecture.
+  \item Presented at a reading group.
+\end{cvitems}
+
+\datedline{\textbf{Teaching Assistant}, CS 336: Design and Analysis of Algorithms}{Spring 2026}
+
+\datedline{\textbf{Teaching Assistant}, CS 335: Introduction to the Theory of Computing}{Fall 2024}
+\begin{cvitems}
+  \item Gave a guest lecture on busy beaver numbers in addition to regular TA duties.
+  \item Awarded the Barris Award for Outstanding TA.
+\end{cvitems}
+
+\section{Service and Programs}
+
+\datedline{\textbf{Program Committee / Reviewer}, Reliable ML from Unreliable Data, NeurIPS Workshop}{2025}
+\datedline{\textbf{Volunteer}, 65th IEEE Symposium on Foundations of Computer Science (FOCS)}{2024}
+\datedline{\textbf{Ross Mathematics Program Asia}, student, junior counselor, counselor}{2018 -- 2020}
+\datedline{\textbf{Directed Reading Program}, Linear Representations of Finite Groups}{Spring 2021}
+Read with \href{https://wenyuanli1995-math.github.io/}{Wenyuan Li}.
+
+\section{Skills}
+
+\cvitem{Technology}{C++, Python (NumPy, PyTorch, pandas, matplotlib), Mathematica, and Gurobi Optimizer.}
+
+\section{Writing}
+
+I have written two Chinese-language articles on theoretical computer science for
+\href{https://zhuanlan.zhihu.com/p/643661983}{my Zhihu column}.
+
+\end{document}
