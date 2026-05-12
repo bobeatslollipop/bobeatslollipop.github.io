@@ -4,6 +4,8 @@ I'm a third-year computer science PhD student in Northwestern University's [theo
 
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. (Go Cats!)
 
+[Full CV](cv/full_cv.pdf)
+
 ## Publications
 
 <div class="paper">
