@@ -6,7 +6,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 [Full CV](cv/full_cv.pdf)
 
-## Publications
+## Publications and Manuscripts
 
 <div class="paper">
 <span class="paper-title">Copying Under Repetition: From Prefix Matching to Position Hashing</span><br>
