@@ -16,7 +16,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <details class="paper">
 <summary>
 <span class="paper-title">Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing</span><br>
-<span class="paper-meta">with <a href="https://ieor.columbia.edu/content/jingwei-li">Jingwei Li</a>. <em>ICML 2026 (<strong>spotlight</strong>).</em></span><br>
+<span class="paper-meta">with <a href="https://ieor.columbia.edu/content/jingwei-li">Jingwei Li</a>. <em>ICML 2026 (<strong>spotlight, top 2.2%</strong>).</em></span><br>
 <span class="paper-links"><a href="https://arxiv.org/abs/2602.00906">arXiv</a></span>
 </summary>
 
