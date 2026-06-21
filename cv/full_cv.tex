@@ -5,6 +5,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
 \usepackage{microtype}
+\usepackage{needspace}
 \usepackage{enumitem}
 \usepackage{tabularx}
 \usepackage{titlesec}
@@ -49,6 +50,7 @@
 }
 
 \newcommand{\paperentry}[4]{%
+  \Needspace{4\baselineskip}
   \textbf{#1}\par
   #2\par
   \emph{#3}#4\par
@@ -80,15 +82,15 @@ Theoretical computer science and the theoretical foundations of machine learning
 \section{Research Projects and Papers}
 
 \paperentry
-{AXIOM: Algorithmic Lemma Discovery via Formal Library Compression}
-{With Ruize Xu, Yi Gu, Tianchong Jiang, Chenxiao Yang, and Zhiyuan Li.}
+{Algorithmic Lemma Discovery via Formal Library Compression}
+{Ruize Xu, Yi Gu, \textbf{Anxin Guo}, Tianchong Jiang, Chenxiao Yang, and Zhiyuan Li.}
 {Manuscript.}
 {}
 \papersep
 
 \paperentry
 {Copying Under Repetition: From Prefix Matching to Position Hashing}
-{With Tianlong Huang, Chenxiao Yang, and Zhiyuan Li.}
+{\textbf{Anxin Guo}, Tianlong Huang, Chenxiao Yang, and Zhiyuan Li.}
 {Manuscript.}
 {}
 \begin{cvitems}
@@ -102,7 +104,7 @@ Theoretical computer science and the theoretical foundations of machine learning
 
 \paperentry
 {Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing}
-{With \href{https://ieor.columbia.edu/content/jingwei-li}{Jingwei Li}.}
+{\textbf{Anxin Guo} and \href{https://ieor.columbia.edu/content/jingwei-li}{Jingwei Li}.}
 {International Conference on Machine Learning (ICML), 2026, spotlight, top 2.2\%.}
 { \href{https://arxiv.org/abs/2602.00906}{arXiv}.}
 \begin{cvitems}
@@ -115,7 +117,7 @@ Theoretical computer science and the theoretical foundations of machine learning
 
 \paperentry
 {Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals}
-{With \href{https://users.cs.northwestern.edu/~aravindv/}{Aravindan Vijayaraghavan}.}
+{\textbf{Anxin Guo} and \href{https://users.cs.northwestern.edu/~aravindv/}{Aravindan Vijayaraghavan}.}
 {Conference on Learning Theory (COLT), 2025.}
 { \href{https://arxiv.org/abs/2411.14349}{arXiv}; \href{https://proceedings.mlr.press/v291/guo25a.html}{conference version}; \href{https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2}{recorded talk}.}
 \begin{cvitems}
@@ -127,7 +129,7 @@ Theoretical computer science and the theoretical foundations of machine learning
 
 \paperentry
 {To Store or Not to Store: A Graph-Theoretic Approach for Dataset Versioning}
-{With \href{https://ieor.columbia.edu/content/jingwei-li}{Jingwei Li}, \href{https://pattaras.github.io/}{Pattara Sukprasert}, \href{https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/khuller-samir.html}{Samir Khuller}, \href{https://www.cs.umd.edu/~amol/}{Amol Deshpande}, and \href{https://research.adobe.com/person/koyel-mukherjee/}{Koyel Mukherjee}.}
+{\textbf{Anxin Guo}, \href{https://ieor.columbia.edu/content/jingwei-li}{Jingwei Li}, \href{https://pattaras.github.io/}{Pattara Sukprasert}, \href{https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/khuller-samir.html}{Samir Khuller}, \href{https://www.cs.umd.edu/~amol/}{Amol Deshpande}, and \href{https://research.adobe.com/person/koyel-mukherjee/}{Koyel Mukherjee}.}
 {IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2024.}
 { \href{https://arxiv.org/abs/2402.11741}{arXiv}; \href{https://ieeexplore.ieee.org/document/10579114}{conference version}.}
 \begin{cvitems}
@@ -167,7 +169,7 @@ Toyota Technological Institute at Chicago. Hosted by \href{https://zhiyuanli.tti
 
 \datedline{\textbf{Program Committee / Reviewer}, Reliable ML from Unreliable Data, NeurIPS Workshop}{2025}
 \datedline{\textbf{Volunteer}, 65th IEEE Symposium on Foundations of Computer Science (FOCS)}{2024}
-\datedline{\textbf{Ross Mathematics Program Asia}, student, junior counselor, counselor}{2018 -- 2020}
+\datedline{\textbf{Ross Mathematics Program (Asia)}, student, junior counselor, counselor}{2018 -- 2020}
 \datedline{\textbf{Directed Reading Program}, Linear Representations of Finite Groups}{Spring 2021}
 Read with \href{https://wenyuanli1995-math.github.io/}{Wenyuan Li}.
 
@@ -177,7 +179,7 @@ Read with \href{https://wenyuanli1995-math.github.io/}{Wenyuan Li}.
 
 \section{Writing}
 
-I have written two Chinese-language articles on theoretical computer science for
+I have written three Chinese-language articles on theoretical computer science for
 \href{https://zhuanlan.zhihu.com/p/643661983}{my Zhihu column}.
 
 \end{document}
