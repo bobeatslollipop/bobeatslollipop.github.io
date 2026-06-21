@@ -32,6 +32,12 @@
   {}
   [\titlerule]
 \titlespacing*{\section}{0pt}{0.95em}{0.45em}
+\titleformat{\subsection}
+  {\normalsize\bfseries}
+  {}
+  {0pt}
+  {}
+\titlespacing*{\subsection}{0pt}{0.5em}{0.25em}
 
 \newcommand{\datedline}[2]{%
   \begin{tabularx}{\textwidth}{@{}X@{\hspace{0.8em}}r@{}}
@@ -56,7 +62,7 @@
   \emph{#3}#4\par
 }
 
-\newcommand{\papersep}{\vspace{0.45em}}
+\newcommand{\papersep}{\vspace{0.72em}}
 
 \begin{document}
 
@@ -81,17 +87,19 @@ Theoretical computer science and the theoretical foundations of machine learning
 
 \section{Research Projects and Papers}
 
-\paperentry
-{Algorithmic Lemma Discovery via Formal Library Compression}
-{Ruize Xu, Yi Gu, \textbf{Anxin Guo}, Tianchong Jiang, Chenxiao Yang, and Zhiyuan Li.}
-{Manuscript.}
-{}
-\papersep
+\subsection*{Manuscripts and Ongoing Projects}
 
 \paperentry
 {On Hint-Induced Answer Shifts in Chain-of-Thought Reasoning}
 {Sara Ahmadian, Pranjal Awasthi, \textbf{Anxin Guo}, Kamesh Munagala, Chirag Pabbaraju, and Aravindan Vijayaraghavan. (alphabetical order)}
 {Manuscript in preparation.}
+{}
+\papersep
+
+\paperentry
+{Algorithmic Lemma Discovery via Formal Library Compression}
+{Ruize Xu, Yi Gu, \textbf{Anxin Guo}, Tianchong Jiang, Chenxiao Yang, and Zhiyuan Li.}
+{Manuscript.}
 {}
 \papersep
 
@@ -108,6 +116,8 @@ Theoretical computer science and the theoretical foundations of machine learning
   \item Built diagnostic experiments showing that frontier 400B-parameter language models struggle to copy strings with extreme repetition.
 \end{cvitems}
 \papersep
+
+\subsection*{Publications}
 
 \paperentry
 {Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing}

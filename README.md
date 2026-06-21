@@ -8,6 +8,13 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 ## Publications and Manuscripts
 
+### Manuscripts and Ongoing Projects
+
+<div class="paper">
+<span class="paper-title">On Hint-Induced Answer Shifts in Chain-of-Thought Reasoning</span><br>
+<span class="paper-meta">Sara Ahmadian, Pranjal Awasthi, <strong>Anxin Guo</strong>, Kamesh Munagala, Chirag Pabbaraju, and Aravindan Vijayaraghavan. (alphabetical order)<br><em>Manuscript in preparation.</em></span>
+</div>
+
 <div class="paper">
 <span class="paper-title">Algorithmic Lemma Discovery via Formal Library Compression</span><br>
 <span class="paper-meta">Ruize Xu, Yi Gu, <strong>Anxin Guo</strong>, Tianchong Jiang, Chenxiao Yang, and Zhiyuan Li.<br><em>Manuscript.</em></span>
@@ -17,6 +24,8 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="paper-title">Copying Under Repetition: From Prefix Matching to Position Hashing</span><br>
 <span class="paper-meta"><strong>Anxin Guo</strong>, Tianlong Huang, Chenxiao Yang, and Zhiyuan Li.<br><em>Manuscript.</em></span>
 </div>
+
+### Publications
 
 <details class="paper">
 <summary>
