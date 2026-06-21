@@ -113,8 +113,7 @@ Theoretical computer science and the theoretical foundations of machine learning
   \item Formalized finite-horizon uniformity, an expressivity regime between non-uniform circuits and fully uniform transformers, where one model must handle all inputs up to length $N$ while resources may scale with $N$.
   \item Proved impossibility results for a class of transformers spanning NoPE and a practical implementation of ALiBi: they cannot correctly terminate the copy task even with depth $N^{0.01}$, near-logarithmic precision, and arbitrary width.
   \item Designed a modular attention head, a plug-in augmentation using value rotation with integer period $p$ to encode query-key distance through the value stream.
-  \item Showed that the augmented architecture can copy arbitrary strings using logarithmic width and $\log \log N$ precision.
-  \item Built diagnostic experiments showing that frontier 400B-parameter language models struggle to copy strings with extreme repetition.
+  \item Showed, both theoretically and empirically, that the augmented architecture can copy arbitrary strings using logarithmic width and $\log \log N$ precision.
 \end{cvitems}
 \papersep
 
