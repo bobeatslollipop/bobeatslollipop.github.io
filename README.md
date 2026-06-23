@@ -12,7 +12,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 <div class="paper">
 <span class="paper-title">On Hint-Induced Answer Shifts in Chain-of-Thought Reasoning</span><br>
-<span class="paper-meta">Sara Ahmadian, Pranjal Awasthi, <strong>Anxin Guo</strong>, Kamesh Munagala, Chirag Pabbaraju, and Aravindan Vijayaraghavan. (alphabetical order)<br><em>Manuscript in preparation.</em></span>
+<span class="paper-meta">Sara Ahmadian, Pranjal Awasthi, <strong>Anxin Guo</strong>, Kamesh Munagala, Chirag Pabbaraju, and Aravindan Vijayaraghavan. (alphabetical order)</span>
 </div>
 
 <div class="paper">
