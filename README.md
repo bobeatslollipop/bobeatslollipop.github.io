@@ -11,11 +11,6 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 ### Manuscripts and Ongoing Projects
 
 <div class="paper">
-<span class="paper-title">On Hint-Induced Answer Shifts in Chain-of-Thought Reasoning</span><br>
-<span class="paper-meta">Sara Ahmadian, Pranjal Awasthi, <strong>Anxin Guo</strong>, Kamesh Munagala, Chirag Pabbaraju, and Aravindan Vijayaraghavan. (alphabetical order)</span>
-</div>
-
-<div class="paper">
 <span class="paper-title">Algorithmic Lemma Discovery via Formal Library Compression</span><br>
 <span class="paper-meta">Ruize Xu, Yi Gu, <strong>Anxin Guo</strong>, Tianchong Jiang, Chenxiao Yang, and Zhiyuan Li.<br><em>Manuscript.</em></span>
 </div>
@@ -31,7 +26,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <summary>
 <span class="paper-title">Hallucination is a Consequence of Space-Optimality: A Rate-Distortion Theorem for Membership Testing</span><br>
 <span class="paper-meta"><strong>Anxin Guo</strong> and <a href="https://ieor.columbia.edu/content/jingwei-li">Jingwei Li</a>.<br><em>ICML 2026 (<strong>spotlight, top 2.2%</strong>).</em></span><br>
-<span class="paper-links"><a href="https://arxiv.org/abs/2602.00906">arXiv</a></span>
+<span class="paper-links"><a href="https://arxiv.org/abs/2602.00906">arXiv</a> | <a href="https://icml.cc/virtual/2026/poster/60977">conference version</a></span>
 </summary>
 
 <p><strong>Summary:</strong> We model the memorization of random, non-inferable facts as a membership testing problem, connecting Bloom-filter-style error metrics with the log-loss behavior of language models. In the sparse-fact regime, we prove a rate-distortion theorem showing that the optimal space-error tradeoff is governed by a KL-divergence frontier. The result gives an information-theoretic explanation for high-confidence hallucinations: under limited capacity, even an optimal model may assign high confidence to some non-facts rather than simply abstaining or forgetting.</p>
