@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#faf9f7" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#15141a" media="(prefers-color-scheme: dark)">
+  {% seo %}
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%234e2a84'/><text x='16' y='22.5' font-family='Georgia,serif' font-size='19' fill='%23fff' text-anchor='middle'>A</text></svg>">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="page">
+    <aside class="sidebar">
+      <div class="sidebar-inner">
+        <div class="identity">
+          {% if site.logo %}
+          <img class="portrait" src="{{ site.logo | relative_url }}" alt="Portrait of {{ site.title }}">
+          {% endif %}
+          <div class="names">
+            <h1 class="name">{{ site.title }}</h1>
+            {% if site.name_zh %}<p class="name-zh">{{ site.name_zh }}</p>{% endif %}
+          </div>
+        </div>
+
+        {% if site.role or site.affiliation %}
+        <p class="tagline">
+          {% if site.role %}<span>{{ site.role }}</span>{% endif %}
+          {% if site.affiliation %}<span>{{ site.affiliation }}</span>{% endif %}
+        </p>
+        {% endif %}
+
+        <div class="actions">
+          {% if site.cv %}
+          <a class="button" href="{{ site.cv | relative_url }}">
+            <svg width="13" height="13" viewBox="0 0 16 16" aria-hidden="true"><path fill="currentColor" d="M8 1.5a.75.75 0 0 1 .75.75v6.44l2.22-2.22a.75.75 0 1 1 1.06 1.06l-3.5 3.5a.75.75 0 0 1-1.06 0l-3.5-3.5a.75.75 0 1 1 1.06-1.06l2.22 2.22V2.25A.75.75 0 0 1 8 1.5Z"/><path fill="currentColor" d="M2.75 12a.75.75 0 0 1 .75.75v.75h9v-.75a.75.75 0 0 1 1.5 0V14a1 1 0 0 1-1 1h-10a1 1 0 0 1-1-1v-1.25a.75.75 0 0 1 .75-.75Z"/></svg>
+            Curriculum Vitae
+          </a>
+          {% endif %}
+          {% if site.links %}
+          <p class="link-row">
+            {% for link in site.links %}<a href="{{ link.url | escape }}">{{ link.label | escape }}</a>{% endfor %}
+          </p>
+          {% endif %}
+          {% if site.email_display %}
+          <p class="contact">
+            <svg width="13" height="13" viewBox="0 0 16 16" aria-hidden="true"><path fill="currentColor" d="M1.75 3h12.5A.75.75 0 0 1 15 3.75v8.5a.75.75 0 0 1-.75.75H1.75A.75.75 0 0 1 1 12.25v-8.5A.75.75 0 0 1 1.75 3Zm.75 2.2v6.05h11V5.2L8 8.85 2.5 5.2Zm10.2-.7H3.3L8 7.6l4.7-3.1Z"/></svg>
+            <span>{{ site.email_display }}</span>
+          </p>
+          {% endif %}
+        </div>
+
+        {% assign chunks = content | split: '<h2 id="' %}
+        {% if chunks.size > 1 %}
+        <nav class="toc" aria-label="Sections">
+          <ul>
+            {% for chunk in chunks offset: 1 %}
+              {% assign pieces = chunk | split: '">' %}
+              {% assign anchor = pieces[0] %}
+              {% assign label = pieces[1] | split: '</h2>' | first | strip_html %}
+              <li><a href="#{{ anchor }}">{{ label }}</a></li>
+            {% endfor %}
+          </ul>
+        </nav>
+        {% endif %}
+      </div>
+    </aside>
+
+    <main class="content" id="main">
+      {{ content }}
+      <footer class="site-footer">
+        <span>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</span>
+        <span>Updated {{ site.time | date: '%B %Y' }}</span>
+      </footer>
+    </main>
+  </div>
+
+  <script>
+  (function () {
+    var links = Array.prototype.slice.call(document.querySelectorAll('.toc a'));
+    if (!links.length || !('IntersectionObserver' in window)) return;
+    var targets = links.map(function (a) { return document.getElementById(a.hash.slice(1)); });
+    var seen = new Map();
+    var observer = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) { seen.set(e.target, e); });
+      var best = null;
+      seen.forEach(function (e) {
+        if (!e.isIntersecting) return;
+        if (!best || e.target.getBoundingClientRect().top < best.target.getBoundingClientRect().top) best = e;
+      });
+      if (!best) return;
+      links.forEach(function (a, i) {
+        a.classList.toggle('is-active', targets[i] === best.target);
+      });
+    }, { rootMargin: '-10% 0px -70% 0px' });
+    targets.forEach(function (t) { if (t) observer.observe(t); });
+  })();
+  </script>
+</body>
+</html>

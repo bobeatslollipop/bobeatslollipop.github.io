@@ -1,9 +1,23 @@
-title: Anxin (Bob) Guo   <br>郭岸新
+title: Anxin (Bob) Guo
+name_zh: 郭岸新
+role: Ph.D. student in Computer Science
+affiliation: Northwestern University · Theory Group
+email_display: bobguo2023 [at] u [dot] northwestern [dot] edu
+cv: /cv/full_cv.pdf
 logo: /assets/Selfie.jpg
-description: bobguo2023[At]u[Dot]northwestern[Dot]edu
+links:
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?hl=en&user=sdVAz6YAAAAJ
+description: >-
+  Anxin (Bob) Guo is a computer science Ph.D. student in Northwestern
+  University's theory group, working on theoretical computer science and the
+  theoretical foundations of machine learning.
+tagline: Theoretical computer science and the foundations of machine learning
 remote_theme: pages-themes/minimal@v0.2.0
 url: "https://anxin-bob-guo.org"
+titles_from_headings:
+  enabled: false
 plugins:
-  - jekyll-remote-theme 
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
