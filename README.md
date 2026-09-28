@@ -9,8 +9,8 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 ### Manuscripts and Ongoing Projects
 
 <div class="paper">
-<span class="paper-title">Algorithmic Lemma Discovery via Formal Library Compression</span>
-<span class="paper-authors">Ruize Xu, Yi Gu, <strong>Anxin Guo</strong>, Tianchong Jiang, Chenxiao Yang, and Zhiyuan Li.</span>
+<span class="paper-title">Leanify: Verified Proof Compression and Reusable Lemma Discovery</span>
+<span class="paper-authors">Ruize Xu, <strong>Anxin Guo</strong>, Yi Gu, Tianchong Jiang, Chenxiao Yang, Tianhao Wang, and Zhiyuan Li.</span>
 <span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
 </div>
 
