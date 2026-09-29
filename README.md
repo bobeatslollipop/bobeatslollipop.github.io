@@ -9,6 +9,12 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 ### Manuscripts and Ongoing Projects
 
 <div class="paper">
+<span class="paper-title">Regularized Transport Weights: a Principled Approach for Active Domain Adaptation</span>
+<span class="paper-authors"><strong>Anxin Guo</strong>, Tanmay Sinha, Dionysis Arvanitakis, Vaidehi Srinivas, Alex Drlica-Wagner, Alexander Ji, and Aravindan Vijayaraghavan.</span>
+<span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
+</div>
+
+<div class="paper">
 <span class="paper-title">Leanify: Verified Proof Compression and Reusable Lemma Discovery</span>
 <span class="paper-authors">Ruize Xu, <strong>Anxin Guo</strong>, Yi Gu, Tianchong Jiang, Chenxiao Yang, Tianhao Wang, and Zhiyuan Li.</span>
 <span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
