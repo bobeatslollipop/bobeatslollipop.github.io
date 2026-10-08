@@ -520,6 +520,19 @@ a:focus-visible {
   overflow-wrap: anywhere;
 }
 
+.paper-talk {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 8px;
+  max-width: 100%;
+}
+
+.talk-note {
+  color: var(--muted);
+  font-size: 12.5px;
+}
+
 .paper-links a:hover,
 .paper-links a:focus-visible {
   color: var(--accent);

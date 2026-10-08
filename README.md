@@ -31,7 +31,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="paper-meta">
 <span class="venue">ICML 2026</span>
 <span class="badge">Spotlight · top 2.2%</span>
-<span class="paper-links"><a href="https://arxiv.org/abs/2602.00906">arXiv</a><a href="https://icml.cc/virtual/2026/poster/60977">conference version</a><a href="https://www.youtube.com/watch?v=AVXfBUA8e-s" title="Oct 7, 2026; my segment: 0:00-10:00">student spotlight at Simons Institute</a></span>
+<span class="paper-links"><a href="https://arxiv.org/abs/2602.00906">arXiv</a><a href="https://icml.cc/virtual/2026/poster/60977">conference version</a><span class="paper-talk"><a href="https://www.youtube.com/watch?v=AVXfBUA8e-s" title="Oct 7, 2026; my segment: first ~10 minutes">student spotlight at Simons Institute</a><span class="talk-note">(my segment: first ~10 minutes)</span></span></span>
 </span>
 <details class="paper-abstract">
 <summary aria-describedby="paper-hallucination">Summary</summary>
