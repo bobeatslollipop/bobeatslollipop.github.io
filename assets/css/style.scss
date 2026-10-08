@@ -12,14 +12,14 @@
     Georgia, "Songti SC", "Source Han Serif SC", serif;
   --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
 
-  --bg: #faf9f7;
+  --bg: #fcfcfd;
   --surface: #ffffff;
-  --ink: #1c1b19;
-  --body: #3a3833;
-  --muted: #6f6c66;
-  --faint: #928e86;
-  --line: #e4e0d9;
-  --line-soft: #ece8e1;
+  --ink: #202124;
+  --body: #3c4046;
+  --muted: #62666d;
+  --faint: #70747c;
+  --line: #dce0e5;
+  --line-soft: #e8eaee;
 
   --accent: #4e2a84;
   --accent-strong: #3a1f63;
@@ -32,14 +32,14 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #15141a;
-    --surface: #1d1c24;
-    --ink: #edecea;
-    --body: #cdcac4;
-    --muted: #9d998f;
-    --faint: #827e75;
-    --line: #302e38;
-    --line-soft: #27252e;
+    --bg: #18191b;
+    --surface: #202225;
+    --ink: #f1f2f4;
+    --body: #d0d3d8;
+    --muted: #afb3bb;
+    --faint: #a0a5af;
+    --line: #393c42;
+    --line-soft: #303339;
 
     --accent: #b99df0;
     --accent-strong: #d3c1fa;
@@ -67,7 +67,8 @@ body {
   background: var(--bg);
   color: var(--body);
   font-family: var(--sans);
-  font-size: 15.5px;
+  font-size: 16px;
+  letter-spacing: 0;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
@@ -80,15 +81,17 @@ body {
 
 a {
   color: var(--accent);
-  text-decoration: none;
-  border-bottom: 1px solid var(--accent-line);
-  transition: color 0.15s ease, border-color 0.15s ease, background-color 0.15s ease;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  text-decoration-color: currentColor;
+  transition: color 0.15s ease, background-color 0.15s ease;
 }
 
 a:hover,
 a:focus-visible {
   color: var(--accent-strong);
-  border-bottom-color: var(--accent);
+  text-decoration-thickness: 2px;
 }
 
 :focus-visible {
@@ -118,8 +121,8 @@ a:focus-visible {
 .page {
   display: grid;
   grid-template-columns: 252px minmax(0, 1fr);
-  gap: 72px;
-  max-width: 1040px;
+  gap: 60px;
+  max-width: 1080px;
   margin: 0 auto;
   padding: 76px 40px 100px;
 }
@@ -162,7 +165,7 @@ a:focus-visible {
   font-size: 27px;
   font-weight: 600;
   line-height: 1.16;
-  letter-spacing: -0.012em;
+  letter-spacing: 0;
   color: var(--ink);
 }
 
@@ -171,7 +174,7 @@ a:focus-visible {
   font-family: var(--serif);
   font-size: 17px;
   font-weight: 500;
-  letter-spacing: 0.1em;
+  letter-spacing: 0;
   color: var(--muted);
 }
 
@@ -196,12 +199,13 @@ a:focus-visible {
   gap: 7px;
   padding: 7px 14px;
   border: 1px solid var(--line);
-  border-radius: 999px;
+  border-radius: 6px;
   background: var(--surface);
   color: var(--ink);
   font-size: 13px;
   font-weight: 550;
-  letter-spacing: 0.005em;
+  letter-spacing: 0;
+  text-decoration: none;
 }
 
 .button:hover,
@@ -225,8 +229,7 @@ a:focus-visible {
 }
 
 .link-row a {
-  color: var(--muted);
-  border-bottom-color: transparent;
+  color: var(--accent);
 }
 
 .link-row a:hover,
@@ -281,7 +284,8 @@ a:focus-visible {
   border-left: 2px solid transparent;
   color: var(--muted);
   font-size: 12.5px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0;
+  text-decoration: none;
 }
 
 .toc a:hover,
@@ -305,9 +309,9 @@ a:focus-visible {
   border-bottom: 1px solid var(--line);
   color: var(--ink);
   font-family: var(--serif);
-  font-size: 21px;
+  font-size: 23px;
   font-weight: 600;
-  letter-spacing: -0.005em;
+  letter-spacing: 0;
   scroll-margin-top: 28px;
 }
 
@@ -327,10 +331,10 @@ a:focus-visible {
 
 .content h3 {
   margin: 34px 0 12px;
-  color: var(--faint);
-  font-size: 11.5px;
+  color: var(--muted);
+  font-size: 12.5px;
   font-weight: 650;
-  letter-spacing: 0.13em;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -385,56 +389,57 @@ a:focus-visible {
 /* ------------------------- publication rows ----------------------- */
 
 .paper {
-  padding: 17px 0;
+  padding: 21px 0;
   border-bottom: 1px solid var(--line-soft);
 }
 
-details.paper > summary {
-  display: block;
-  position: relative;
-  padding-right: 26px;
+.paper-abstract {
+  margin-top: 5px;
+}
+
+.paper-abstract > summary {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 32px;
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 550;
   cursor: pointer;
   list-style: none;
 }
 
-details.paper > summary::-webkit-details-marker {
+.paper-abstract > summary::-webkit-details-marker {
   display: none;
 }
 
-details.paper > summary::after {
+.paper-abstract > summary::before {
   content: "";
-  position: absolute;
-  right: 5px;
-  top: 7px;
-  width: 7px;
-  height: 7px;
-  border-right: 1.6px solid var(--faint);
-  border-bottom: 1.6px solid var(--faint);
-  transform: rotate(45deg);
-  transform-origin: 60% 60%;
+  width: 6px;
+  height: 6px;
+  flex: none;
+  border-right: 1.6px solid currentColor;
+  border-bottom: 1.6px solid currentColor;
+  transform: rotate(-45deg);
   transition: transform 0.18s ease, border-color 0.18s ease;
 }
 
-details.paper[open] > summary::after {
-  transform: rotate(-135deg);
+.paper-abstract[open] > summary::before {
+  transform: rotate(45deg);
 }
 
-details.paper > summary:hover::after {
-  border-color: var(--accent);
-}
-
-details.paper > summary:hover .paper-title,
-details.paper > summary:focus-visible .paper-title {
+.paper-abstract > summary:hover,
+.paper-abstract > summary:focus-visible {
   color: var(--accent);
 }
 
 .paper-title {
   display: block;
   color: var(--ink);
-  font-size: 16px;
+  font-size: 16.5px;
   font-weight: 620;
   line-height: 1.42;
-  letter-spacing: -0.003em;
+  letter-spacing: 0;
   transition: color 0.15s ease;
 }
 
@@ -453,7 +458,7 @@ details.paper > summary:focus-visible .paper-title {
 
 .paper-authors a {
   color: inherit;
-  border-bottom-color: var(--line);
+  text-decoration-color: var(--faint);
 }
 
 .paper-authors a:hover,
@@ -471,14 +476,10 @@ details.paper > summary:focus-visible .paper-title {
 }
 
 .venue {
-  padding: 2.5px 9px;
-  border: 1px solid var(--accent-line);
-  border-radius: 5px;
-  background: var(--accent-soft);
-  color: var(--accent);
-  font-size: 12px;
+  color: var(--ink);
+  font-size: 12.5px;
   font-weight: 620;
-  letter-spacing: 0.015em;
+  letter-spacing: 0;
   white-space: nowrap;
 }
 
@@ -496,20 +497,27 @@ details.paper > summary:focus-visible .paper-title {
   color: var(--gold-ink);
   font-size: 12px;
   font-weight: 620;
-  letter-spacing: 0.015em;
+  letter-spacing: 0;
 }
 
 .paper-links {
-  display: inline-flex;
+  display: flex;
+  flex-basis: 100%;
   flex-wrap: wrap;
   align-items: center;
-  gap: 0 4px;
-  font-size: 13px;
+  gap: 2px 18px;
+  font-size: 13.5px;
 }
 
 .paper-links a {
-  color: var(--muted);
-  border-bottom-color: transparent;
+  display: inline-flex;
+  align-items: center;
+  min-height: 32px;
+  max-width: 100%;
+  padding: 3px 4px;
+  color: var(--accent);
+  font-weight: 550;
+  overflow-wrap: anywhere;
 }
 
 .paper-links a:hover,
@@ -518,31 +526,12 @@ details.paper > summary:focus-visible .paper-title {
   border-bottom-color: var(--accent);
 }
 
-.paper-links a + a::before {
-  content: "·";
-  margin-right: 5px;
-  color: var(--faint);
-  border: 0;
-}
-
 .paper-summary {
   margin: 13px 0 2px;
   padding: 13px 16px;
-  border: 1px solid var(--line-soft);
   border-left: 2px solid var(--accent-line);
-  border-radius: 4px 9px 9px 4px;
-  background: var(--surface);
   font-size: 14.3px;
   line-height: 1.68;
-}
-
-.paper-summary strong {
-  margin-right: 7px;
-  color: var(--muted);
-  font-size: 11.5px;
-  font-weight: 650;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
 }
 
 /* ----------------------------- entries ---------------------------- */
@@ -623,7 +612,7 @@ details.paper > summary:focus-visible .paper-title {
   border-top: 1px solid var(--line);
   color: var(--faint);
   font-size: 12px;
-  letter-spacing: 0.01em;
+  letter-spacing: 0;
 }
 
 /* --------------------------- responsive --------------------------- */
@@ -689,7 +678,7 @@ details.paper > summary:focus-visible .paper-title {
   .toc a {
     padding: 5px 11px;
     border: 1px solid var(--line);
-    border-radius: 999px;
+    border-radius: 6px;
     font-size: 12px;
   }
 
@@ -701,6 +690,11 @@ details.paper > summary:focus-visible .paper-title {
 
   .content h2 {
     margin-top: 46px;
+  }
+
+  .paper-links a,
+  .paper-abstract > summary {
+    min-height: 44px;
   }
 }
 
@@ -729,6 +723,7 @@ details.paper > summary:focus-visible .paper-title {
   .paper-summary {
     padding: 12px 13px;
   }
+
 }
 
 @media (prefers-reduced-motion: reduce) {
