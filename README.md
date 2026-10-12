@@ -71,39 +71,23 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 ## Selected Talks
 
 <div class="entry">
-<span class="entry-title">Hallucination is a Consequence of Space-Optimality</span>
-<span class="entry-meta">Student spotlight &middot; Simons Institute, <a href="https://simons.berkeley.edu/workshops/trustworthy-ai-hallucinations-reliable-autonomy">Trustworthy AI: From Hallucinations to Reliable Autonomy</a> &middot; October 7, 2026</span>
+<span class="entry-title">Hallucination and Space-Optimality</span>
+<span class="entry-meta"><strong>Simons Institute</strong> &middot; Student spotlight, <a href="https://simons.berkeley.edu/workshops/trustworthy-ai-hallucinations-reliable-autonomy">Trustworthy AI: From Hallucinations to Reliable Autonomy</a> &middot; October 2026</span>
 <span class="paper-links"><span class="paper-talk"><a href="https://www.youtube.com/watch?v=AVXfBUA8e-s">Video</a><span class="talk-note">(my segment: first ~10 minutes)</span></span></span>
+<span class="entry-meta"><strong>Google AI Study Group</strong> &middot; Invited talk &middot; September 2026</span>
+<span class="entry-meta"><strong>IDEAL Annual Meeting, TTIC</strong> &middot; Lightning talk &middot; September 2026</span>
 </div>
 
 <div class="entry">
 <span class="entry-title">Intelligent Scheduling for Astronomical Surveys</span>
-<span class="entry-meta">Joint presentation with Rachel Hur and Tanmay Sinha &middot; SkAI Works-In-Progress &middot; September 30, 2026</span>
+<span class="entry-meta"><strong>SkAI Works-In-Progress</strong> &middot; Joint presentation with Rachel Hur and Tanmay Sinha &middot; September 2026</span>
 </div>
 
 <div class="entry">
-<span class="entry-title">Why LLM Hallucinate? A Perspective from Space-Optimality</span>
-<span class="entry-meta">Invited talk &middot; Google, AI Study Group &middot; September 14, 2026</span>
-</div>
-
-<div class="entry">
-<span class="entry-title">Hallucination is a Consequence of Space-Optimality</span>
-<span class="entry-meta">Lightning talk &middot; IDEAL Annual Meeting 2026, Toyota Technological Institute at Chicago (TTIC) &middot; September 10, 2026</span>
-</div>
-
-<div class="entry">
-<span class="entry-title">Agnostic Learning of Arbitrary ReLU Neuron under Gaussian Marginals</span>
-<span class="entry-meta">Student talk &middot; IDEAL Annual Meeting 2025, University of Illinois Chicago (UIC) &middot; June 9, 2025</span>
-</div>
-
-<div class="entry">
-<span class="entry-title">Agnostic Learning of Arbitrary ReLU Neuron under Gaussian Marginals</span>
-<span class="entry-meta">CS Theory Seminar &middot; Northwestern University &middot; February 6, 2025</span>
-</div>
-
-<div class="entry">
-<span class="entry-title">Agnostic Learning of Arbitrary ReLU Neuron under Gaussian Marginals</span>
-<span class="entry-meta">Lightning talk &middot; NSF TRIPODS Workshop, Toyota Technological Institute at Chicago (TTIC) &middot; December 7, 2024</span>
+<span class="entry-title">Agnostically Learning Arbitrary ReLU Neurons</span>
+<span class="entry-meta"><strong>IDEAL Annual Meeting, UIC</strong> &middot; Student talk &middot; June 2025</span>
+<span class="entry-meta"><strong>Northwestern University</strong> &middot; CS Theory Seminar &middot; February 2025</span>
+<span class="entry-meta"><strong>NSF TRIPODS Workshop, TTIC</strong> &middot; Lightning talk &middot; December 2024</span>
 </div>
 
 ## Education
