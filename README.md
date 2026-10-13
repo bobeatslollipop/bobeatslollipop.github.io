@@ -9,6 +9,11 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 ### Manuscripts and Ongoing Projects
 
 <div class="paper">
+<span class="paper-title">How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models</span>
+<span class="paper-authors"><strong>Anxin Guo</strong>, Chirag Pabbaraju, Sara Ahmadian, Kamesh Munagala, and Aravindan Vijayaraghavan.</span>
+</div>
+
+<div class="paper">
 <span class="paper-title">Regularized Transport Weights: a Principled Approach for Active Domain Adaptation</span>
 <span class="paper-authors"><strong>Anxin Guo</strong>, Tanmay Sinha, Dionysis Arvanitakis, Vaidehi Srinivas, Alex Drlica-Wagner, Alexander Ji, and Aravindan Vijayaraghavan.</span>
 </div>
