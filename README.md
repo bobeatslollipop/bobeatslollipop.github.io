@@ -9,6 +9,12 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 ### Manuscripts and Ongoing Projects
 
 <div class="paper">
+<span class="paper-title">Learning Rules, Memorizing Facts: An Information-Theoretic View of Hallucination</span>
+<span class="paper-authors">Gengze Xu, <strong>Anxin Guo</strong>, Yifei Hu, Xiangyu Wu, Yong Liu, and Ziqiao Wang.</span>
+<span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.16233">arXiv</a></span></span>
+</div>
+
+<div class="paper">
 <span class="paper-title">How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models</span>
 <span class="paper-authors"><strong>Anxin Guo</strong>, Chirag Pabbaraju, Sara Ahmadian, Kamesh Munagala, and Aravindan Vijayaraghavan.</span>
 </div>
