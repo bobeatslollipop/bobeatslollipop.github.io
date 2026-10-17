@@ -6,7 +6,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 ## Publications and Manuscripts
 
-### Manuscripts and Ongoing Projects
+### Manuscripts
 
 <div class="paper">
 <span class="paper-title">Learning Rules, Memorizing Facts: An Information-Theoretic View of Hallucination</span>
