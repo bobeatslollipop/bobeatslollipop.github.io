@@ -8,10 +8,15 @@ logo: /assets/Selfie.jpg
 links:
   - label: Google Scholar
     url: https://scholar.google.com/citations?hl=en&user=sdVAz6YAAAAJ
+  - label: OpenReview
+    url: https://openreview.net/profile?id=~Anxin_Guo1
 description: >-
   Anxin (Bob) Guo is a computer science Ph.D. student in Northwestern
   University's theory group, working on theoretical computer science and the
   theoretical foundations of machine learning.
+image: /assets/Selfie.jpg
+twitter:
+  card: summary
 tagline: Theoretical computer science and the foundations of machine learning
 remote_theme: pages-themes/minimal@v0.2.0
 url: "https://anxin-bob-guo.org"

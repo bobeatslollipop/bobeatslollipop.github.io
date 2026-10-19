@@ -6,34 +6,6 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 ## Publications and Manuscripts
 
-### Manuscripts
-
-<div class="paper">
-<span class="paper-title">Learning Rules, Memorizing Facts: An Information-Theoretic View of Hallucination</span>
-<span class="paper-authors">Gengze Xu, <strong>Anxin Guo</strong>, Yifei Hu, Xiangyu Wu, Yong Liu, and Ziqiao Wang.</span>
-<span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.16233">arXiv</a></span></span>
-</div>
-
-<div class="paper">
-<span class="paper-title">How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models</span>
-<span class="paper-authors"><strong>Anxin Guo</strong>, Chirag Pabbaraju, Sara Ahmadian, Kamesh Munagala, and Aravindan Vijayaraghavan.</span>
-</div>
-
-<div class="paper">
-<span class="paper-title">Regularized Transport Weights: a Principled Approach for Active Domain Adaptation</span>
-<span class="paper-authors"><strong>Anxin Guo</strong>, Tanmay Sinha, Dionysis Arvanitakis, Vaidehi Srinivas, Alex Drlica-Wagner, Alexander Ji, and Aravindan Vijayaraghavan.</span>
-</div>
-
-<div class="paper">
-<span class="paper-title">Leanify: Verified Proof Compression and Reusable Lemma Discovery</span>
-<span class="paper-authors">Ruize Xu, <strong>Anxin Guo</strong>, Yi Gu, Tianchong Jiang, Chenxiao Yang, Tianhao Wang, and Zhiyuan Li.</span>
-</div>
-
-<div class="paper">
-<span class="paper-title">Copying Under Repetition: From Prefix Matching to Position Hashing</span>
-<span class="paper-authors"><strong>Anxin Guo</strong>, Tianlong Huang, Chenxiao Yang, and Zhiyuan Li.</span>
-</div>
-
 ### Publications
 
 <article class="paper">
@@ -42,7 +14,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="paper-meta">
 <span class="venue">ICML 2026</span>
 <span class="badge">Spotlight · top 2.2%</span>
-<span class="paper-links"><a href="https://arxiv.org/abs/2602.00906">arXiv</a><a href="https://icml.cc/virtual/2026/poster/60977">conference version</a><span class="paper-talk"><a href="https://www.youtube.com/watch?v=AVXfBUA8e-s" title="Oct 7, 2026; my segment: first ~10 minutes">student spotlight at Simons Institute</a><span class="talk-note">(my segment: first ~10 minutes)</span></span></span>
+<span class="paper-links"><a href="https://arxiv.org/abs/2602.00906">arXiv</a><a href="https://icml.cc/virtual/2026/poster/60977">Paper</a><span class="paper-talk"><a href="https://www.youtube.com/watch?v=AVXfBUA8e-s" title="Oct 7, 2026; my segment: first ~10 minutes">Video</a><span class="talk-note">(Simons Institute spotlight; my segment: first ~10 min)</span></span></span>
 </span>
 <details class="paper-abstract">
 <summary aria-describedby="paper-hallucination">Summary</summary>
@@ -56,7 +28,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="paper-authors"><strong>Anxin Guo</strong> and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
 <span class="paper-meta">
 <span class="venue">COLT 2025</span>
-<span class="paper-links"><a href="https://arxiv.org/abs/2411.14349">arXiv</a><a href="https://proceedings.mlr.press/v291/guo25a.html">conference version</a><a href="https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2">recorded virtual talk</a></span>
+<span class="paper-links"><a href="https://arxiv.org/abs/2411.14349">arXiv</a><a href="https://proceedings.mlr.press/v291/guo25a.html">Paper</a><a href="https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2">Video</a></span>
 </span>
 <details class="paper-abstract">
 <summary aria-describedby="paper-relu">Summary</summary>
@@ -70,7 +42,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="paper-authors"><strong>Anxin Guo</strong>, <a href="https://ieor.columbia.edu/content/jingwei-li">Jingwei Li</a>, <a href="https://pattaras.github.io/">Pattara Sukprasert</a>, <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/khuller-samir.html">Samir Khuller</a>, <a href="https://www.cs.umd.edu/~amol/">Amol Deshpande</a>, and <a href="https://research.adobe.com/person/koyel-mukherjee/">Koyel Mukherjee</a>.</span>
 <span class="paper-meta">
 <span class="venue">IPDPS 2024</span>
-<span class="paper-links"><a href="https://arxiv.org/abs/2402.11741">arXiv</a><a href="https://ieeexplore.ieee.org/document/10579114">conference version</a></span>
+<span class="paper-links"><a href="https://arxiv.org/abs/2402.11741">arXiv</a><a href="https://ieeexplore.ieee.org/document/10579114">Paper</a></span>
 </span>
 <details class="paper-abstract">
 <summary aria-describedby="paper-versioning">Summary</summary>
@@ -78,6 +50,38 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <p class="paper-summary">We study a graph-theoretic framework for dataset versioning that optimizes storage costs while controlling retrieval costs across versions. On the theory side, we prove hardness-of-approximation results and give provably near-optimal algorithms for tree-like graphs of bounded treewidth. These results also lead to practical heuristics with up to 1000x speedups for the "MinSum Retrieval" problem on real-world GitHub repositories.</p>
 </details>
 </article>
+
+### Manuscripts
+
+<div class="paper">
+<span class="paper-title">Learning Rules, Memorizing Facts: An Information-Theoretic View of Hallucination</span>
+<span class="paper-authors">Gengze Xu, <strong>Anxin Guo</strong>, Yifei Hu, Xiangyu Wu, Yong Liu, and Ziqiao Wang.</span>
+<span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.16233">arXiv</a></span></span>
+</div>
+
+<div class="paper">
+<span class="paper-title">How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models</span>
+<span class="paper-authors"><strong>Anxin Guo</strong>, Chirag Pabbaraju, Sara Ahmadian, Kamesh Munagala, and Aravindan Vijayaraghavan.</span>
+<span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
+</div>
+
+<div class="paper">
+<span class="paper-title">Regularized Transport Weights: a Principled Approach for Active Domain Adaptation</span>
+<span class="paper-authors"><strong>Anxin Guo</strong>, Tanmay Sinha, Dionysis Arvanitakis, Vaidehi Srinivas, Alex Drlica-Wagner, Alexander Ji, and Aravindan Vijayaraghavan.</span>
+<span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
+</div>
+
+<div class="paper">
+<span class="paper-title">Leanify: Verified Proof Compression and Reusable Lemma Discovery</span>
+<span class="paper-authors">Ruize Xu, <strong>Anxin Guo</strong>, Yi Gu, Tianchong Jiang, Chenxiao Yang, Tianhao Wang, and Zhiyuan Li.</span>
+<span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
+</div>
+
+<div class="paper">
+<span class="paper-title">Copying Under Repetition: From Prefix Matching to Position Hashing</span>
+<span class="paper-authors"><strong>Anxin Guo</strong>, Tianlong Huang, Chenxiao Yang, and Zhiyuan Li.</span>
+<span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
+</div>
 
 ## Selected Talks
 
