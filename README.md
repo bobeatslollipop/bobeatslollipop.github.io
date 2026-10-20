@@ -80,7 +80,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <div class="paper">
 <span class="paper-title">Copying Under Repetition: From Prefix Matching to Position Hashing</span>
 <span class="paper-authors"><strong>Anxin Guo</strong>, Tianlong Huang, Chenxiao Yang, and Zhiyuan Li.</span>
-<span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
+<span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.26722">arXiv</a></span></span>
 </div>
 
 ## Selected Talks
