@@ -55,31 +55,31 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 <div class="paper">
 <span class="paper-title">Learning Rules, Memorizing Facts: An Information-Theoretic View of Hallucination</span>
-<span class="paper-authors">Gengze Xu, <strong>Anxin Guo</strong>, Yifei Hu, Xiangyu Wu, Yong Liu, and Ziqiao Wang.</span>
+<span class="paper-authors">Gengze Xu, <strong>Anxin Guo</strong>, Yifei Hu, Xiangyu Wu, <a href="https://ai.ruc.edu.cn/GSAI_HOME/FACULTYn/YongLiu/423b52e166034e8a98a1ea3f6e090e83.htm">Yong Liu</a>, and <a href="https://ziqiaowanggeothe.github.io/">Ziqiao Wang</a>.</span>
 <span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.16233">arXiv</a></span></span>
 </div>
 
 <div class="paper">
 <span class="paper-title">How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models</span>
-<span class="paper-authors"><strong>Anxin Guo</strong>, Chirag Pabbaraju, Sara Ahmadian, Kamesh Munagala, and Aravindan Vijayaraghavan.</span>
+<span class="paper-authors"><strong>Anxin Guo</strong>, <a href="https://web.stanford.edu/~cpabbara/">Chirag Pabbaraju</a>, <a href="https://research.google/people/106920/">Sara Ahmadian</a>, <a href="https://www.kameshmunagala.org/">Kamesh Munagala</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
 <span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
 </div>
 
 <div class="paper">
 <span class="paper-title">Regularized Transport Weights: a Principled Approach for Active Domain Adaptation</span>
-<span class="paper-authors"><strong>Anxin Guo</strong>, Tanmay Sinha, Dionysis Arvanitakis, Vaidehi Srinivas, Alex Drlica-Wagner, Alexander Ji, and Aravindan Vijayaraghavan.</span>
+<span class="paper-authors"><strong>Anxin Guo</strong>, <a href="https://tanmaysinha18.github.io/">Tanmay Sinha</a>, <a href="https://dion11ar.github.io/">Dionysis Arvanitakis</a>, <a href="https://vaidehi8913.github.io/">Vaidehi Srinivas</a>, <a href="https://kadrlica.github.io/">Alex Drlica-Wagner</a>, <a href="https://www.alexji.com/">Alexander Ji</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
 <span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
 </div>
 
 <div class="paper">
 <span class="paper-title">Leanify: Verified Proof Compression and Reusable Lemma Discovery</span>
-<span class="paper-authors">Ruize Xu, <strong>Anxin Guo</strong>, Yi Gu, Tianchong Jiang, Chenxiao Yang, Tianhao Wang, and Zhiyuan Li.</span>
+<span class="paper-authors"><a href="https://cs.uchicago.edu/people/ruize-richard-xu/">Ruize Xu</a>, <strong>Anxin Guo</strong>, Yi Gu, <a href="https://tianchong-jiang.github.io/">Tianchong Jiang</a>, <a href="https://chr26195.github.io/">Chenxiao Yang</a>, <a href="https://tiiao.github.io/">Tianhao Wang</a>, and <a href="https://zhiyuanli.ttic.edu/">Zhiyuan Li</a>.</span>
 <span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
 </div>
 
 <div class="paper">
 <span class="paper-title">Copying Under Repetition: From Prefix Matching to Position Hashing</span>
-<span class="paper-authors"><strong>Anxin Guo</strong>, Tianlong Huang, Chenxiao Yang, and Zhiyuan Li.</span>
+<span class="paper-authors"><strong>Anxin Guo</strong>, Tianlong Huang, <a href="https://chr26195.github.io/">Chenxiao Yang</a>, and <a href="https://zhiyuanli.ttic.edu/">Zhiyuan Li</a>.</span>
 <span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.26722">arXiv</a></span></span>
 </div>
 
@@ -95,7 +95,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 <div class="entry">
 <span class="entry-title">Intelligent Scheduling for Astronomical Surveys</span>
-<span class="entry-meta"><strong>SkAI Works-In-Progress</strong> &middot; Joint presentation with Rachel Hur and Tanmay Sinha &middot; September 2026</span>
+<span class="entry-meta"><strong>SkAI Works-In-Progress</strong> &middot; Joint presentation with <a href="https://physics.uchicago.edu/people/profile/rachel-hur/">Rachel Hur</a> and <a href="https://tanmaysinha18.github.io/">Tanmay Sinha</a> &middot; September 2026</span>
 </div>
 
 <div class="entry">
