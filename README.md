@@ -1,6 +1,6 @@
 ## About Me
 
-I'm a fourth-year computer science PhD student in Northwestern University's [theory group](https://theory.cs.northwestern.edu/). My research interests lie in theoretical computer science and the foundations of machine learning. I study the capabilities and limitations of learning and computation, with a particular interest in how language models learn, memorize, and reason.
+I'm a fourth-year computer science PhD student in Northwestern University's [theory group](https://theory.cs.northwestern.edu/). I'm very fortunate to be advised by [Aravindan Vijayaraghavan](https://users.cs.northwestern.edu/~aravindv/). My research interests lie in theoretical computer science and the foundations of machine learning. I study the capabilities and limitations of learning and computation, with a particular interest in how language models learn, memorize, and reason.
 
 Before beginning my PhD studies at Northwestern University, I completed both my undergraduate and master's degrees at the same institution. (Go Cats!)
 
