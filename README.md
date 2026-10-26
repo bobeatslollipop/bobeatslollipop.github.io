@@ -62,7 +62,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <div class="paper">
 <span class="paper-title">How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models</span>
 <span class="paper-authors"><strong>Anxin Guo</strong>, <a href="https://web.stanford.edu/~cpabbara/">Chirag Pabbaraju</a>, <a href="https://research.google/people/106920/">Sara Ahmadian</a>, <a href="https://www.kameshmunagala.org/">Kamesh Munagala</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
-<span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
+<span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.32055">arXiv</a></span></span>
 </div>
 
 <div class="paper">
