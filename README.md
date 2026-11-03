@@ -54,6 +54,12 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 ### Manuscripts
 
 <div class="paper">
+<span class="paper-title">Approximate Syzygies of Smoothed Polynomials and Applications</span>
+<span class="paper-authors"><a href="https://users.cs.utah.edu/~bhaskara/">Aditya Bhaskara</a>, <strong>Anxin Guo</strong>, <a href="https://tanmaysinha18.github.io/">Tanmay Sinha</a>, <a href="https://vaidehi8913.github.io/">Vaidehi Srinivas</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
+<span class="paper-meta"><span class="venue is-draft">Manuscript</span><span class="paper-links"><a href="/assets/papers/approximate-syzygies.pdf">PDF</a></span></span>
+</div>
+
+<div class="paper">
 <span class="paper-title">Learning Rules, Memorizing Facts: An Information-Theoretic View of Hallucination</span>
 <span class="paper-authors">Gengze Xu, <strong>Anxin Guo</strong>, Yifei Hu, Xiangyu Wu, <a href="https://ai.ruc.edu.cn/GSAI_HOME/FACULTYn/YongLiu/423b52e166034e8a98a1ea3f6e090e83.htm">Yong Liu</a>, and <a href="https://ziqiaowanggeothe.github.io/">Ziqiao Wang</a>.</span>
 <span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.16233">arXiv</a></span></span>
