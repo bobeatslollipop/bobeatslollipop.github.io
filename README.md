@@ -56,7 +56,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <div class="paper">
 <span class="paper-title">Approximate Syzygies of Smoothed Polynomials and Applications</span>
 <span class="paper-authors"><a href="https://users.cs.utah.edu/~bhaskara/">Aditya Bhaskara</a>, <strong>Anxin Guo</strong>, <a href="https://tanmaysinha18.github.io/">Tanmay Sinha</a>, <a href="https://vaidehi8913.github.io/">Vaidehi Srinivas</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
-<span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
+<span class="paper-meta"><span class="venue is-draft">Manuscript</span><span class="paper-links"><a href="/assets/papers/approximate-syzygies.pdf">PDF</a></span></span>
 </div>
 
 <div class="paper">
