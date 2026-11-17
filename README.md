@@ -54,6 +54,13 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 ### Manuscripts
 
 <div class="paper">
+<span class="paper-title">New Tools for Smoothed Analysis: Least Singular Value Bounds for Random Matrices with Dependent Entries</span>
+<span class="paper-authors"><a href="https://users.cs.utah.edu/~bhaskara/">Aditya Bhaskara</a>, <a href="https://ericevert.com/">Eric Evert</a>, <strong>Anxin Guo</strong>, <a href="https://tanmaysinha18.github.io/">Tanmay Sinha</a>, <a href="https://vaidehi8913.github.io/">Vaidehi Srinivas</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
+<span class="paper-meta"><span class="venue">Corrected and revised version, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2405.01517v3">arXiv v3</a></span></span>
+<span class="entry-meta">With Tanmay Sinha, I identified a gap in the earlier proof and helped develop a new proof of the main theorem. The original four-author version appeared in STOC 2024.</span>
+</div>
+
+<div class="paper">
 <span class="paper-title">Approximate Syzygies of Smoothed Polynomials and Applications</span>
 <span class="paper-authors"><a href="https://users.cs.utah.edu/~bhaskara/">Aditya Bhaskara</a>, <strong>Anxin Guo</strong>, <a href="https://tanmaysinha18.github.io/">Tanmay Sinha</a>, <a href="https://vaidehi8913.github.io/">Vaidehi Srinivas</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
 <span class="paper-meta"><span class="venue is-draft">Manuscript</span><span class="paper-links"><a href="/assets/papers/approximate-syzygies.pdf">PDF</a></span></span>
