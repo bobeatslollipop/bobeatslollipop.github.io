@@ -27,13 +27,6 @@
           </div>
         </div>
 
-        {% if site.role or site.affiliation %}
-        <p class="tagline">
-          {% if site.role %}<span>{{ site.role }}</span>{% endif %}
-          {% if site.affiliation %}<span>{{ site.affiliation }}</span>{% endif %}
-        </p>
-        {% endif %}
-
         <div class="actions">
           {% if site.cv %}
           <a class="button" href="{{ site.cv | relative_url }}">
@@ -49,7 +42,7 @@
           {% if site.email_display %}
           <p class="contact">
             <svg width="13" height="13" viewBox="0 0 16 16" aria-hidden="true"><path fill="currentColor" d="M1.75 3h12.5A.75.75 0 0 1 15 3.75v8.5a.75.75 0 0 1-.75.75H1.75A.75.75 0 0 1 1 12.25v-8.5A.75.75 0 0 1 1.75 3Zm.75 2.2v6.05h11V5.2L8 8.85 2.5 5.2Zm10.2-.7H3.3L8 7.6l4.7-3.1Z"/></svg>
-            <span>{{ site.email_display }}</span>
+            <span class="email">{{ site.email_display }}</span>
           </p>
           {% endif %}
         </div>
@@ -80,6 +73,20 @@
   </div>
 
   <script>
+  (function () {
+    document.querySelectorAll('.summary-toggle').forEach(function (btn) {
+      var panel = document.getElementById(btn.getAttribute('aria-controls'));
+      if (!panel) return;
+      panel.hidden = true;
+      btn.setAttribute('aria-expanded', 'false');
+      btn.addEventListener('click', function () {
+        var open = btn.getAttribute('aria-expanded') === 'true';
+        btn.setAttribute('aria-expanded', String(!open));
+        panel.hidden = open;
+      });
+    });
+  })();
+
   (function () {
     var links = Array.prototype.slice.call(document.querySelectorAll('.toc a'));
     if (!links.length || !('IntersectionObserver' in window)) return;
