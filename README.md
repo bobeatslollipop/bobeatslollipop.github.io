@@ -41,12 +41,25 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 
 ### Manuscripts
 
-<div class="paper">
-<span class="paper-title">New Tools for Smoothed Analysis: Least Singular Value Bounds for Random Matrices with Dependent Entries</span>
-<span class="paper-authors"><a href="https://users.cs.utah.edu/~bhaskara/">Aditya Bhaskara</a>, <a href="https://ericevert.com/">Eric Evert</a>, <strong>Anxin Guo</strong>, <a href="https://tanmaysinha18.github.io/">Tanmay Sinha</a>, <a href="https://vaidehi8913.github.io/">Vaidehi Srinivas</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
-<span class="paper-meta"><span class="venue">Corrected and revised version, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2405.01517v3">arXiv</a></span></span>
-<span class="entry-meta">With Tanmay Sinha, I identified a gap in the earlier proof and helped develop a new proof of the main theorem. The original four-author version appeared in STOC 2024.</span>
-</div>
+<article class="paper">
+<span class="paper-title" id="paper-copying">Copying Under Repetition: From Prefix Matching to Position Hashing</span>
+<span class="paper-authors"><strong>Anxin Guo</strong>, Tianlong Huang, <a href="https://chr26195.github.io/">Chenxiao Yang</a>, and <a href="https://zhiyuanli.ttic.edu/">Zhiyuan Li</a>.</span>
+<span class="paper-meta">
+<span class="venue">Preprint, 2026</span>
+<span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-copying" aria-describedby="paper-copying">Summary</button><a href="https://arxiv.org/abs/2610.26722">arXiv</a></span>
+</span>
+<p class="paper-summary" id="summary-copying">Language models that copy random text accurately can still stop too early or too late on a long run of identical characters. We prove a limit for a class of finite-precision transformers and construct a two-layer transformer that uses periodic position codes (with small prime periods) to copy any string up to a chosen length and stop exactly at the end. In synthetic copying experiments, baselines with standard positional encodings such as RoPE struggled on long repeated strings even within the training range, while our model trained on strings up to 2,000 tokens generalized to 5,000 tokens with near-perfect accuracy.</p>
+</article>
+
+<article class="paper">
+<span class="paper-title" id="paper-dog">How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models</span>
+<span class="paper-authors"><strong>Anxin Guo</strong>, <a href="https://web.stanford.edu/~cpabbara/">Chirag Pabbaraju</a>, <a href="https://research.google/people/106920/">Sara Ahmadian</a>, <a href="https://www.kameshmunagala.org/">Kamesh Munagala</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
+<span class="paper-meta">
+<span class="venue">Preprint, 2026</span>
+<span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-dog" aria-describedby="paper-dog">Summary</button><a href="https://arxiv.org/abs/2610.32055">arXiv</a></span>
+</span>
+<p class="paper-summary" id="summary-dog">How much does an external hint sway a reasoning language model's prior judgment? On multiple-choice questions, we find that for a given source, a hint gives the suggested answer a roughly constant average boost in log-odds across a wide range of starting probabilities, as if it carried a fixed evidence weight. In our tests, the boost was not calibrated to the source's stated reliability, and explicit distrust warnings weakened it without eliminating it.</p>
+</article>
 
 <article class="paper">
 <span class="paper-title" id="paper-syzygies">Approximate Syzygies of Smoothed Polynomials and Applications</span>
@@ -59,25 +72,16 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 </article>
 
 <div class="paper">
-<span class="paper-title">Learning Rules, Memorizing Facts: An Information-Theoretic View of Hallucination</span>
-<span class="paper-authors">Gengze Xu, <strong>Anxin Guo</strong>, Yifei Hu, Xiangyu Wu, <a href="https://ai.ruc.edu.cn/GSAI_HOME/FACULTYn/YongLiu/423b52e166034e8a98a1ea3f6e090e83.htm">Yong Liu</a>, and <a href="https://ziqiaowanggeothe.github.io/">Ziqiao Wang</a>.</span>
-<span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.16233">arXiv</a></span></span>
-</div>
-
-<article class="paper">
-<span class="paper-title" id="paper-dog">How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models</span>
-<span class="paper-authors"><strong>Anxin Guo</strong>, <a href="https://web.stanford.edu/~cpabbara/">Chirag Pabbaraju</a>, <a href="https://research.google/people/106920/">Sara Ahmadian</a>, <a href="https://www.kameshmunagala.org/">Kamesh Munagala</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
-<span class="paper-meta">
-<span class="venue">Preprint, 2026</span>
-<span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-dog" aria-describedby="paper-dog">Summary</button><a href="https://arxiv.org/abs/2610.32055">arXiv</a></span>
-</span>
-<p class="paper-summary" id="summary-dog">How much does an external hint sway a reasoning language model's prior judgment? On multiple-choice questions, we find that for a given source, a hint gives the suggested answer a roughly constant average boost in log-odds across a wide range of starting probabilities, as if it carried a fixed evidence weight. In our tests, the boost was not calibrated to the source's stated reliability, and explicit distrust warnings weakened it without eliminating it.</p>
-</article>
-
-<div class="paper">
 <span class="paper-title">Regularized Transport Weights: a Principled Approach for Active Domain Adaptation</span>
 <span class="paper-authors"><strong>Anxin Guo</strong>, <a href="https://tanmaysinha18.github.io/">Tanmay Sinha</a>, <a href="https://dion11ar.github.io/">Dionysis Arvanitakis</a>, <a href="https://vaidehi8913.github.io/">Vaidehi Srinivas</a>, <a href="https://kadrlica.github.io/">Alex Drlica-Wagner</a>, <a href="https://www.alexji.com/">Alexander Ji</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
 <span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
+</div>
+
+<div class="paper">
+<span class="paper-title">New Tools for Smoothed Analysis: Least Singular Value Bounds for Random Matrices with Dependent Entries</span>
+<span class="paper-authors"><a href="https://users.cs.utah.edu/~bhaskara/">Aditya Bhaskara</a>, <a href="https://ericevert.com/">Eric Evert</a>, <strong>Anxin Guo</strong>, <a href="https://tanmaysinha18.github.io/">Tanmay Sinha</a>, <a href="https://vaidehi8913.github.io/">Vaidehi Srinivas</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
+<span class="paper-meta"><span class="venue">Corrected and revised version, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2405.01517v3">arXiv</a></span></span>
+<span class="entry-meta">With Tanmay Sinha, I identified a gap in the earlier proof and helped develop a new proof of the main theorem. The original four-author version appeared in STOC 2024.</span>
 </div>
 
 <div class="paper">
@@ -86,15 +90,11 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
 </div>
 
-<article class="paper">
-<span class="paper-title" id="paper-copying">Copying Under Repetition: From Prefix Matching to Position Hashing</span>
-<span class="paper-authors"><strong>Anxin Guo</strong>, Tianlong Huang, <a href="https://chr26195.github.io/">Chenxiao Yang</a>, and <a href="https://zhiyuanli.ttic.edu/">Zhiyuan Li</a>.</span>
-<span class="paper-meta">
-<span class="venue">Preprint, 2026</span>
-<span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-copying" aria-describedby="paper-copying">Summary</button><a href="https://arxiv.org/abs/2610.26722">arXiv</a></span>
-</span>
-<p class="paper-summary" id="summary-copying">Language models that copy random text accurately can still stop too early or too late on a long run of identical characters. We prove a limit for a class of finite-precision transformers and construct a two-layer transformer that uses periodic position codes (with small prime periods) to copy any string up to a chosen length and stop exactly at the end. In synthetic copying experiments, baselines with standard positional encodings such as RoPE struggled on long repeated strings even within the training range, while our model trained on strings up to 2,000 tokens generalized to 5,000 tokens with near-perfect accuracy.</p>
-</article>
+<div class="paper">
+<span class="paper-title">Learning Rules, Memorizing Facts: An Information-Theoretic View of Hallucination</span>
+<span class="paper-authors">Gengze Xu, <strong>Anxin Guo</strong>, Yifei Hu, Xiangyu Wu, <a href="https://ai.ruc.edu.cn/GSAI_HOME/FACULTYn/YongLiu/423b52e166034e8a98a1ea3f6e090e83.htm">Yong Liu</a>, and <a href="https://ziqiaowanggeothe.github.io/">Ziqiao Wang</a>.</span>
+<span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.16233">arXiv</a></span></span>
+</div>
 
 ## Selected Talks
 
