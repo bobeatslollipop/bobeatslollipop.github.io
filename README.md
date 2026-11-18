@@ -48,11 +48,15 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="entry-meta">With Tanmay Sinha, I identified a gap in the earlier proof and helped develop a new proof of the main theorem. The original four-author version appeared in STOC 2024.</span>
 </div>
 
-<div class="paper">
-<span class="paper-title">Approximate Syzygies of Smoothed Polynomials and Applications</span>
+<article class="paper">
+<span class="paper-title" id="paper-syzygies">Approximate Syzygies of Smoothed Polynomials and Applications</span>
 <span class="paper-authors"><a href="https://users.cs.utah.edu/~bhaskara/">Aditya Bhaskara</a>, <strong>Anxin Guo</strong>, <a href="https://tanmaysinha18.github.io/">Tanmay Sinha</a>, <a href="https://vaidehi8913.github.io/">Vaidehi Srinivas</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
-<span class="paper-meta"><span class="venue is-draft">Manuscript</span><span class="paper-links"><a href="/assets/papers/approximate-syzygies.pdf">PDF</a></span></span>
-</div>
+<span class="paper-meta">
+<span class="venue is-draft">Manuscript</span>
+<span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-syzygies" aria-describedby="paper-syzygies">Summary</button><a href="/assets/papers/approximate-syzygies.pdf">PDF</a></span>
+</span>
+<p class="paper-summary" id="summary-syzygies">A linear system can be sensitive to small errors when a combination of its columns almost cancels out. We study the same phenomenon for polynomials. After small random perturbations, we show that nearly canceling combinations are close to Koszul syzygies, simple exact cancellations that come from the fact that multiplication commutes. This answers an open question about efficiently decomposing a noisy sum of powers of polynomials in the smoothed setting <a href="https://arxiv.org/pdf/2208.00122#page=6">[BHKX22]</a>. We also establish robust uniqueness of symmetric third-order tensor decompositions at superlinear rank under small random perturbations, addressing an open question raised in <a href="https://proceedings.mlr.press/v35/bhaskara14a.pdf#page=3">[BCV14]</a>.</p>
+</article>
 
 <div class="paper">
 <span class="paper-title">Learning Rules, Memorizing Facts: An Information-Theoretic View of Hallucination</span>
