@@ -60,11 +60,15 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.16233">arXiv</a></span></span>
 </div>
 
-<div class="paper">
-<span class="paper-title">How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models</span>
+<article class="paper">
+<span class="paper-title" id="paper-dog">How Much Do You Trust A Dog? Quantifying Hint-Following in Reasoning Language Models</span>
 <span class="paper-authors"><strong>Anxin Guo</strong>, <a href="https://web.stanford.edu/~cpabbara/">Chirag Pabbaraju</a>, <a href="https://research.google/people/106920/">Sara Ahmadian</a>, <a href="https://www.kameshmunagala.org/">Kamesh Munagala</a>, and <a href="https://users.cs.northwestern.edu/~aravindv/">Aravindan Vijayaraghavan</a>.</span>
-<span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.32055">arXiv</a></span></span>
-</div>
+<span class="paper-meta">
+<span class="venue">Preprint, 2026</span>
+<span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-dog" aria-describedby="paper-dog">Summary</button><a href="https://arxiv.org/abs/2610.32055">arXiv</a></span>
+</span>
+<p class="paper-summary" id="summary-dog">On multiple-choice questions, a hint gives the suggested answer a roughly constant average boost in log-odds across a wide range of starting probabilities. The size of the boost depends on who gives the hint, but it persists even when models are explicitly told not to trust the source.</p>
+</article>
 
 <div class="paper">
 <span class="paper-title">Regularized Transport Weights: a Principled Approach for Active Domain Adaptation</span>
@@ -78,11 +82,15 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="paper-meta"><span class="venue is-draft">Manuscript</span></span>
 </div>
 
-<div class="paper">
-<span class="paper-title">Copying Under Repetition: From Prefix Matching to Position Hashing</span>
+<article class="paper">
+<span class="paper-title" id="paper-copying">Copying Under Repetition: From Prefix Matching to Position Hashing</span>
 <span class="paper-authors"><strong>Anxin Guo</strong>, Tianlong Huang, <a href="https://chr26195.github.io/">Chenxiao Yang</a>, and <a href="https://zhiyuanli.ttic.edu/">Zhiyuan Li</a>.</span>
-<span class="paper-meta"><span class="venue">Preprint, 2026</span><span class="paper-links"><a href="https://arxiv.org/abs/2610.26722">arXiv</a></span></span>
-</div>
+<span class="paper-meta">
+<span class="venue">Preprint, 2026</span>
+<span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-copying" aria-describedby="paper-copying">Summary</button><a href="https://arxiv.org/abs/2610.26722">arXiv</a></span>
+</span>
+<p class="paper-summary" id="summary-copying">Language models that copy random text accurately can still stop too early or too late on a long run of identical characters. We prove a limit for a class of finite-precision transformers and construct a two-layer transformer that uses periodic position codes (with small prime periods) to copy any string up to a chosen length and stop exactly at the end. In synthetic copying experiments, baselines with standard positional encodings such as RoPE struggled on long repeated strings even within the training range, while our model trained on strings up to 2,000 tokens generalized to 5,000 tokens with near-perfect accuracy.</p>
+</article>
 
 ## Selected Talks
 
