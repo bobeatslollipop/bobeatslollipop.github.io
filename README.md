@@ -16,7 +16,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="badge">Spotlight · top 2.2%</span>
 <span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-hallucination" aria-describedby="paper-hallucination">Summary</button><a href="https://arxiv.org/abs/2602.00906">arXiv</a><a href="https://www.youtube.com/watch?v=AVXfBUA8e-s" title="Simons Institute spotlight, Oct 2026. My segment is the first ~10 minutes of the recording.">Video<span class="chip-note">first 10 min</span></a></span>
 </span>
-<p class="paper-summary" id="summary-hallucination">We model the memorization of random, non-inferable facts as a membership testing problem, connecting Bloom-filter-style error metrics with the log-loss behavior of language models. In the sparse-fact regime, we prove a rate-distortion theorem showing that the optimal space-error tradeoff is governed by a KL-divergence frontier. The result gives an information-theoretic explanation for high-confidence hallucinations: under limited capacity, even an optimal model may assign high confidence to some non-facts rather than simply abstaining or forgetting.</p>
+<p class="paper-summary" id="summary-hallucination">We model the memorization of random, non-inferable facts as a membership testing problem, connecting Bloom-filter-style error metrics with the log-loss behavior of language models. In the sparse-fact regime, we prove a rate-distortion theorem showing that the optimal space-error tradeoff is governed by a KL-divergence frontier. The result gives an information-theoretic explanation for high-confidence hallucinations: in this regime under log-loss, the limiting space-optimal solution assigns the same confidence to all facts and a nonzero fraction of non-facts, rather than simply abstaining or forgetting.</p>
 </article>
 
 <article class="paper">
@@ -26,7 +26,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="venue is-published">COLT 2025</span>
 <span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-relu" aria-describedby="paper-relu">Summary</button><a href="https://arxiv.org/abs/2411.14349">arXiv</a><a href="https://youtu.be/bXVM10VRfcI?si=6dDID4kokQpQcaD2">Video</a></span>
 </span>
-<p class="paper-summary" id="summary-relu">We give the first algorithm for agnostic PAC learning of an arbitrarily biased ReLU neuron under Gaussian input distributions, up to constant approximation. We also prove a hardness separation between SQ (statistical query) and CSQ (correlational statistical query) models for this problem, showing a limitation of gradient-based algorithms in this setting.</p>
+<p class="paper-summary" id="summary-relu">We give the first polynomial-time statistical query (SQ) algorithm for agnostic PAC learning of an arbitrarily biased ReLU neuron under Gaussian marginals, achieving a constant-factor approximation with any desired additive tolerance. Large negative biases are challenging because the neuron activates only in the Gaussian tail, where adversarial noise can overwhelm the informative gradient signal or even drive gradient descent in the wrong direction. Complementing our algorithm, we prove a hardness separation between general SQ and correlational SQ (CSQ), formalizing this limitation of gradient-based methods.</p>
 </article>
 
 <article class="paper">
@@ -36,7 +36,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="venue is-published">IPDPS 2024</span>
 <span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-versioning" aria-describedby="paper-versioning">Summary</button><a href="https://arxiv.org/abs/2402.11741">arXiv</a></span>
 </span>
-<p class="paper-summary" id="summary-versioning">We study a graph-theoretic framework for dataset versioning that optimizes storage costs while controlling retrieval costs across versions. On the theory side, we prove hardness-of-approximation results and give provably near-optimal algorithms for tree-like graphs of bounded treewidth. These results also lead to practical heuristics with up to 1000x speedups for the "MinSum Retrieval" problem on real-world GitHub repositories.</p>
+<p class="paper-summary" id="summary-versioning">We study a graph-theoretic framework for dataset versioning that optimizes storage costs while controlling retrieval costs across versions. On the theory side, we prove hardness-of-approximation results and give provably near-optimal algorithms for version graphs of bounded treewidth. On one real GitHub version graph, our dynamic programming heuristic achieved nearly three orders of magnitude lower total retrieval cost than the prior heuristic at comparable storage budgets.</p>
 </article>
 
 ### Manuscripts
@@ -71,7 +71,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="venue">Preprint, 2026</span>
 <span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-dog" aria-describedby="paper-dog">Summary</button><a href="https://arxiv.org/abs/2610.32055">arXiv</a></span>
 </span>
-<p class="paper-summary" id="summary-dog">On multiple-choice questions, a hint gives the suggested answer a roughly constant average boost in log-odds across a wide range of starting probabilities. The size of the boost depends on who gives the hint, but it persists even when models are explicitly told not to trust the source.</p>
+<p class="paper-summary" id="summary-dog">How much does an external hint sway a reasoning language model's prior judgment? On multiple-choice questions, we find that for a given source, a hint gives the suggested answer a roughly constant average boost in log-odds across a wide range of starting probabilities, as if it carried a fixed evidence weight. In our tests, the boost was not calibrated to the source's stated reliability, and explicit distrust warnings weakened it without eliminating it.</p>
 </article>
 
 <div class="paper">
