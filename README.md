@@ -13,7 +13,7 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 <span class="paper-authors"><strong>Anxin Guo</strong> and <a href="https://ieor.columbia.edu/content/jingwei-li">Jingwei Li</a>.</span>
 <span class="paper-meta">
 <span class="venue is-published">ICML 2026</span>
-<span class="badge">Spotlight · top 2.2%</span>
+<span class="badge">Spotlight</span>
 <span class="paper-links"><button class="summary-toggle" type="button" aria-expanded="true" aria-controls="summary-hallucination" aria-describedby="paper-hallucination">Summary</button><a href="https://arxiv.org/abs/2602.00906">arXiv</a><a href="https://www.youtube.com/watch?v=AVXfBUA8e-s" title="Simons Institute spotlight, Oct 2026. My segment is the first ~10 minutes of the recording.">Video<span class="chip-note">first 10 min</span></a></span>
 </span>
 <p class="paper-summary" id="summary-hallucination">We model the memorization of random, non-inferable facts as a membership testing problem, connecting Bloom-filter-style error metrics with the log-loss behavior of language models. In the sparse-fact regime, we prove a rate-distortion theorem showing that the optimal space-error tradeoff is governed by a KL-divergence frontier. The result gives an information-theoretic explanation for high-confidence hallucinations: in this regime under log-loss, the limiting space-optimal solution assigns the same confidence to all facts and a nonzero fraction of non-facts, rather than simply abstaining or forgetting.</p>
