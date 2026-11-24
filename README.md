@@ -152,7 +152,8 @@ Before beginning my PhD studies at Northwestern University, I completed both my 
 ### Service and Programs
 
 <ul class="dated-list">
-<li><span>Program Committee / Reviewer, <a href="https://reliablemlworkshop.github.io/">Reliable ML from Unreliable Data</a>, NeurIPS 2025 Workshop.</span><span class="date">2025</span></li>
+<li><span><strong>Reviewer:</strong> STOC 2027; NeurIPS, ICML, and ICLR 2026; ACL Rolling Review (October 2026 cycle).</span></li>
+<li><span><strong>Program Committee Member:</strong> <a href="https://reliablemlworkshop.github.io/">Reliable ML from Unreliable Data</a>, NeurIPS Workshop.</span><span class="date">2025</span></li>
 <li><span>Volunteer, <a href="https://focs.computer.org/2024/">FOCS 2024</a> (65th IEEE Symposium on Foundations of Computer Science), Chicago, IL.</span><span class="date">2024</span></li>
 <li><span>Directed Reading Program: read <em>Linear Representations of Finite Groups</em> with <a class="person" href="https://wenyuanli1995-math.github.io/">Wenyuan Li</a>.</span><span class="date">Spring 2021</span></li>
 <li><span>Ross Mathematics Program (Asia): first-year student (2018), junior counselor (2019), counselor (2020).</span><span class="date">2018&ndash;2020</span></li>
